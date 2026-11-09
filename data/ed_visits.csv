@@ -1,0 +1,2001 @@
+visit_id,arrival_time,age,age_group,sex,chief_complaint,acuity_level,arrival_mode,wait_minutes
+V00001,2025-01-01 09:29,29,18-34,F,Rash,4,Ambulance,40
+V00002,2025-01-01 18:21,55,50-64,F,Abdominal pain,3,Walk-in,29
+V00003,2025-01-01 19:31,32,18-34,F,Fever,2,Walk-in,29
+V00004,2025-01-01 21:40,92,65+,M,Nausea/vomiting,3,Walk-in,105
+V00005,2025-01-02 08:09,7,0-17,F,Back pain,3,Walk-in,70
+V00006,2025-01-02 20:57,34,18-34,F,Fever,3,Walk-in,59
+V00007,2025-01-03 04:15,93,65+,F,Nausea/vomiting,4,Walk-in,72
+V00008,2025-01-03 12:42,61,50-64,F,Headache,2,Walk-in,20
+V00009,2025-01-03 13:59,90,65+,M,Nausea/vomiting,3,Walk-in,67
+V00010,2025-01-03 21:28,26,18-34,F,Abdominal pain,3,Walk-in,35
+V00011,2025-01-03 21:33,60,50-64,F,Abdominal pain,3,Walk-in,113
+V00012,2025-01-03 23:32,6,0-17,F,Injury,4,Walk-in,51
+V00013,2025-01-04 07:46,32,18-34,F,Laceration,4,Walk-in,51
+V00014,2025-01-04 09:05,73,65+,F,Abdominal pain,4,Walk-in,32
+V00015,2025-01-04 13:59,67,65+,F,Chest pain,5,Walk-in,60
+V00016,2025-01-04 20:29,8,0-17,F,Chest pain,4,Walk-in,53
+V00017,2025-01-04 21:03,79,65+,F,Injury,4,Walk-in,91
+V00018,2025-01-04 22:56,48,35-49,M,Headache,3,Ambulance,21
+V00019,2025-01-05 02:24,40,35-49,M,Back pain,3,Walk-in,67
+V00020,2025-01-05 02:53,19,18-34,F,Shortness of breath,3,Walk-in,24
+V00021,2025-01-05 05:20,79,65+,M,Nausea/vomiting,3,Walk-in,41
+V00022,2025-01-05 14:44,48,35-49,F,Injury,3,Walk-in,42
+V00023,2025-01-06 17:35,8,0-17,M,Laceration,5,Ambulance,232
+V00024,2025-01-06 17:55,38,35-49,M,Chest pain,2,Walk-in,37
+V00025,2025-01-06 18:56,15,0-17,M,Abdominal pain,4,Walk-in,46
+V00026,2025-01-07 02:01,51,50-64,M,Fever,4,Walk-in,73
+V00027,2025-01-07 03:29,25,18-34,F,Chest pain,3,Walk-in,25
+V00028,2025-01-07 04:21,4,0-17,M,Chest pain,2,Walk-in,26
+V00029,2025-01-08 01:58,35,35-49,F,Abdominal pain,3,Walk-in,45
+V00030,2025-01-08 05:11,23,18-34,M,Laceration,3,Ambulance,19
+V00031,2025-01-08 13:55,89,65+,F,Nausea/vomiting,4,Walk-in,78
+V00032,2025-01-08 19:15,91,65+,F,Shortness of breath,2,Walk-in,71
+V00033,2025-01-09 07:40,93,65+,F,Injury,4,Walk-in,52
+V00034,2025-01-09 10:38,33,18-34,F,Shortness of breath,2,Walk-in,20
+V00035,2025-01-09 14:17,9,0-17,F,Fever,3,Walk-in,50
+V00036,2025-01-09 17:39,24,18-34,F,Abdominal pain,3,Walk-in,55
+V00037,2025-01-09 19:24,56,50-64,F,Injury,2,Walk-in,73
+V00038,2025-01-09 19:42,27,18-34,M,Nausea/vomiting,3,Ambulance,28
+V00039,2025-01-10 10:28,23,18-34,F,Rash,5,Walk-in,60
+V00040,2025-01-10 19:15,66,65+,F,Abdominal pain,2,Walk-in,23
+V00041,2025-01-10 22:46,32,18-34,F,Shortness of breath,2,Walk-in,19
+V00042,2025-01-10 23:28,60,50-64,M,Abdominal pain,4,Walk-in,54
+V00043,2025-01-10 23:33,52,50-64,F,Injury,3,Walk-in,44
+V00044,2025-01-10 23:47,46,35-49,F,Injury,3,Walk-in,18
+V00045,2025-01-11 02:10,91,65+,M,Laceration,4,Ambulance,119
+V00046,2025-01-11 15:42,74,65+,F,Laceration,5,Walk-in,82
+V00047,2025-01-11 16:06,30,18-34,F,Shortness of breath,4,Walk-in,51
+V00048,2025-01-11 18:34,41,35-49,F,Injury,4,Ambulance,38
+V00049,2025-01-11 18:37,58,50-64,M,Shortness of breath,2,Walk-in,14
+V00050,2025-01-11 19:13,27,18-34,F,Laceration,4,Walk-in,41
+V00051,2025-01-11 21:11,62,50-64,M,Rash,5,Walk-in,88
+V00052,2025-01-11 22:55,40,35-49,M,Fever,3,Ambulance,12
+V00053,2025-01-11 23:44,13,0-17,M,Laceration,4,Walk-in,44
+V00054,2025-01-12 11:53,30,18-34,F,Headache,4,Walk-in,53
+V00055,2025-01-12 12:35,47,35-49,F,Shortness of breath,3,Walk-in,25
+V00056,2025-01-12 13:06,1,0-17,F,Headache,4,Ambulance,25
+V00057,2025-01-13 10:16,9,0-17,F,Nausea/vomiting,3,Walk-in,36
+V00058,2025-01-13 16:38,55,50-64,F,Injury,3,Walk-in,46
+V00059,2025-01-13 21:29,17,0-17,M,Abdominal pain,2,Walk-in,29
+V00060,2025-01-13 22:02,78,65+,F,Rash,5,Walk-in,98
+V00061,2025-01-13 23:56,84,65+,M,Abdominal pain,3,Walk-in,30
+V00062,2025-01-14 04:35,23,18-34,F,Chest pain,3,Walk-in,56
+V00063,2025-01-14 04:38,47,35-49,M,Fever,3,Walk-in,29
+V00064,2025-01-14 10:31,18,18-34,F,Fever,3,Ambulance,19
+V00065,2025-01-14 17:13,31,18-34,M,Chest pain,2,Walk-in,17
+V00066,2025-01-14 18:45,56,50-64,F,Back pain,5,Walk-in,177
+V00067,2025-01-15 03:34,32,18-34,F,Laceration,5,Walk-in,78
+V00068,2025-01-15 04:28,10,0-17,F,Laceration,4,Walk-in,60
+V00069,2025-01-15 05:53,12,0-17,F,Rash,4,Walk-in,18
+V00070,2025-01-15 12:38,44,35-49,F,Abdominal pain,3,Walk-in,26
+V00071,2025-01-15 13:29,18,18-34,F,Nausea/vomiting,3,Walk-in,47
+V00072,2025-01-15 13:29,75,65+,F,Injury,4,Walk-in,87
+V00073,2025-01-15 16:11,42,35-49,M,Abdominal pain,3,Walk-in,73
+V00074,2025-01-15 16:37,47,35-49,M,Fever,3,Walk-in,77
+V00075,2025-01-16 01:19,71,65+,M,Nausea/vomiting,4,Walk-in,43
+V00076,2025-01-16 08:52,49,35-49,F,Fever,3,Walk-in,61
+V00077,2025-01-16 09:20,15,0-17,F,Back pain,3,Walk-in,21
+V00078,2025-01-16 18:34,47,35-49,M,Headache,4,Walk-in,100
+V00079,2025-01-16 18:49,85,65+,F,Headache,4,Walk-in,144
+V00080,2025-01-17 08:18,52,50-64,F,Injury,4,Walk-in,78
+V00081,2025-01-17 09:27,23,18-34,F,Headache,3,Ambulance,23
+V00082,2025-01-17 10:30,43,35-49,M,Shortness of breath,4,Walk-in,55
+V00083,2025-01-17 23:22,30,18-34,M,Shortness of breath,2,Ambulance,13
+V00084,2025-01-18 02:08,74,65+,M,Rash,4,Walk-in,88
+V00085,2025-01-18 02:09,64,50-64,M,Back pain,3,Walk-in,29
+V00086,2025-01-18 04:50,37,35-49,M,Injury,3,Walk-in,49
+V00087,2025-01-18 05:43,8,0-17,F,Back pain,4,Walk-in,38
+V00088,2025-01-18 12:12,37,35-49,F,Chest pain,3,Walk-in,54
+V00089,2025-01-18 15:57,10,0-17,F,Fever,3,Walk-in,36
+V00090,2025-01-18 16:51,48,35-49,M,Chest pain,2,Walk-in,14
+V00091,2025-01-19 05:26,19,18-34,M,Injury,5,Ambulance,53
+V00092,2025-01-19 10:39,49,35-49,F,Injury,3,Ambulance,24
+V00093,2025-01-19 11:03,88,65+,M,Abdominal pain,2,Walk-in,42
+V00094,2025-01-19 13:28,82,65+,F,Shortness of breath,2,Walk-in,35
+V00095,2025-01-20 00:36,31,18-34,M,Back pain,3,Walk-in,18
+V00096,2025-01-20 10:58,88,65+,F,Injury,4,Walk-in,79
+V00097,2025-01-20 15:51,43,35-49,F,Shortness of breath,2,Walk-in,12
+V00098,2025-01-20 17:12,64,50-64,M,Abdominal pain,3,Walk-in,56
+V00099,2025-01-21 12:54,4,0-17,M,Abdominal pain,2,Walk-in,29
+V00100,2025-01-21 18:13,17,0-17,M,Headache,3,Walk-in,29
+V00101,2025-01-21 18:19,58,50-64,F,Shortness of breath,1,Walk-in,10
+V00102,2025-01-22 04:03,45,35-49,M,Chest pain,4,Walk-in,64
+V00103,2025-01-22 09:05,35,35-49,F,Abdominal pain,3,Ambulance,18
+V00104,2025-01-22 17:50,49,35-49,F,Headache,3,Walk-in,32
+V00105,2025-01-23 00:54,32,18-34,F,Fever,2,Walk-in,17
+V00106,2025-01-23 04:31,78,65+,F,Laceration,4,Walk-in,137
+V00107,2025-01-23 06:38,19,18-34,M,Headache,3,Walk-in,23
+V00108,2025-01-23 09:50,48,35-49,M,Back pain,5,Ambulance,72
+V00109,2025-01-23 13:43,25,18-34,M,Chest pain,3,Walk-in,36
+V00110,2025-01-23 15:04,5,0-17,M,Shortness of breath,2,Walk-in,18
+V00111,2025-01-23 20:47,47,35-49,M,Chest pain,3,Walk-in,28
+V00112,2025-01-23 22:49,26,18-34,F,Chest pain,2,Walk-in,8
+V00113,2025-01-24 09:28,63,50-64,M,Injury,3,Walk-in,40
+V00114,2025-01-24 10:11,37,35-49,F,Back pain,3,Walk-in,44
+V00115,2025-01-24 13:22,37,35-49,F,Laceration,4,Walk-in,35
+V00116,2025-01-24 14:48,13,0-17,M,Chest pain,2,Walk-in,43
+V00117,2025-01-24 17:36,93,65+,F,Fever,4,Walk-in,157
+V00118,2025-01-24 18:51,62,50-64,M,Headache,4,Ambulance,44
+V00119,2025-01-25 02:31,19,18-34,M,Abdominal pain,4,Walk-in,42
+V00120,2025-01-25 07:35,2,0-17,M,Laceration,5,Walk-in,50
+V00121,2025-01-25 09:30,35,35-49,F,Injury,4,Ambulance,36
+V00122,2025-01-25 11:03,71,65+,M,Chest pain,2,Walk-in,29
+V00123,2025-01-25 14:32,10,0-17,F,Chest pain,3,Walk-in,39
+V00124,2025-01-25 18:26,76,65+,F,Injury,4,Walk-in,115
+V00125,2025-01-25 21:28,45,35-49,F,Injury,3,Walk-in,83
+V00126,2025-01-25 22:10,5,0-17,M,Fever,4,Walk-in,30
+V00127,2025-01-25 23:53,10,0-17,M,Back pain,4,Walk-in,61
+V00128,2025-01-26 02:14,10,0-17,F,Laceration,4,Ambulance,50
+V00129,2025-01-26 09:10,15,0-17,M,Shortness of breath,4,Walk-in,24
+V00130,2025-01-26 18:37,14,0-17,F,Injury,4,Ambulance,205
+V00131,2025-01-26 20:52,62,50-64,F,Injury,3,Walk-in,158
+V00132,2025-01-27 03:41,8,0-17,F,Headache,3,Walk-in,57
+V00133,2025-01-27 03:46,53,50-64,M,Back pain,4,Walk-in,26
+V00134,2025-01-27 12:49,66,65+,F,Laceration,4,Ambulance,76
+V00135,2025-01-27 13:03,39,35-49,F,Injury,3,Walk-in,47
+V00136,2025-01-27 13:12,18,18-34,F,Laceration,4,Walk-in,127
+V00137,2025-01-27 13:57,44,35-49,F,Injury,4,Walk-in,87
+V00138,2025-01-27 23:27,29,18-34,F,Headache,4,Ambulance,25
+V00139,2025-01-27 23:33,3,0-17,M,Nausea/vomiting,4,Walk-in,56
+V00140,2025-01-28 04:03,51,50-64,M,Fever,5,Walk-in,100
+V00141,2025-01-28 05:04,36,35-49,M,Chest pain,3,Ambulance,41
+V00142,2025-01-28 08:13,14,0-17,F,Fever,1,Ambulance,2
+V00143,2025-01-28 10:50,45,35-49,F,Headache,5,Walk-in,37
+V00144,2025-01-28 20:23,91,65+,F,Chest pain,3,Walk-in,60
+V00145,2025-01-28 22:03,50,50-64,F,Laceration,4,Walk-in,47
+V00146,2025-01-29 09:30,6,0-17,M,Chest pain,4,Walk-in,46
+V00147,2025-01-29 15:41,63,50-64,F,Fever,2,Walk-in,24
+V00148,2025-01-30 05:51,47,35-49,F,Chest pain,3,Walk-in,37
+V00149,2025-01-30 07:37,45,35-49,F,Injury,4,Walk-in,55
+V00150,2025-01-30 16:38,37,35-49,M,Abdominal pain,3,Walk-in,37
+V00151,2025-01-30 16:49,21,18-34,F,Laceration,3,Walk-in,90
+V00152,2025-01-30 17:48,71,65+,F,Laceration,4,Walk-in,77
+V00153,2025-01-31 08:13,27,18-34,F,Fever,4,Walk-in,43
+V00154,2025-01-31 09:27,39,35-49,M,Chest pain,2,Walk-in,32
+V00155,2025-01-31 13:52,60,50-64,F,Back pain,5,Walk-in,33
+V00156,2025-01-31 16:05,19,18-34,F,Back pain,4,Walk-in,124
+V00157,2025-01-31 18:52,34,18-34,M,Injury,4,Walk-in,55
+V00158,2025-02-01 07:29,22,18-34,F,Abdominal pain,3,Ambulance,29
+V00159,2025-02-01 09:50,33,18-34,M,Shortness of breath,4,Walk-in,32
+V00160,2025-02-01 09:58,58,50-64,M,Shortness of breath,1,Walk-in,4
+V00161,2025-02-01 10:51,41,35-49,M,Shortness of breath,2,Walk-in,20
+V00162,2025-02-01 11:21,55,50-64,M,Nausea/vomiting,3,Ambulance,78
+V00163,2025-02-01 11:37,67,65+,M,Injury,4,Walk-in,120
+V00164,2025-02-01 12:21,30,18-34,M,Abdominal pain,3,Walk-in,55
+V00165,2025-02-01 12:47,25,18-34,M,Back pain,4,Walk-in,47
+V00166,2025-02-01 19:17,12,0-17,M,Fever,2,Walk-in,23
+V00167,2025-02-02 11:50,90,65+,F,Laceration,4,Walk-in,64
+V00168,2025-02-03 00:15,64,50-64,M,Laceration,3,Walk-in,29
+V00169,2025-02-03 01:34,50,50-64,M,Back pain,4,Walk-in,48
+V00170,2025-02-03 05:22,4,0-17,F,Laceration,5,Walk-in,34
+V00171,2025-02-03 05:29,77,65+,M,Nausea/vomiting,3,Walk-in,155
+V00172,2025-02-03 07:55,43,35-49,F,Rash,3,Walk-in,27
+V00173,2025-02-03 08:34,13,0-17,M,Fever,4,Walk-in,37
+V00174,2025-02-03 12:57,86,65+,M,Nausea/vomiting,4,Walk-in,51
+V00175,2025-02-03 16:15,14,0-17,M,Shortness of breath,3,Walk-in,89
+V00176,2025-02-03 21:24,11,0-17,M,Abdominal pain,3,Walk-in,36
+V00177,2025-02-04 01:39,92,65+,M,Injury,4,Walk-in,35
+V00178,2025-02-04 07:47,18,18-34,F,Injury,4,Walk-in,27
+V00179,2025-02-04 13:17,92,65+,F,Back pain,4,Walk-in,80
+V00180,2025-02-04 17:06,69,65+,M,Injury,3,Walk-in,69
+V00181,2025-02-04 17:19,0,0-17,F,Abdominal pain,3,Walk-in,50
+V00182,2025-02-04 20:59,0,0-17,F,Fever,3,Walk-in,61
+V00183,2025-02-05 05:49,21,18-34,F,Laceration,4,Walk-in,46
+V00184,2025-02-05 06:29,36,35-49,F,Laceration,4,Walk-in,108
+V00185,2025-02-05 11:28,34,18-34,M,Fever,3,Walk-in,34
+V00186,2025-02-05 17:43,72,65+,F,Abdominal pain,4,Walk-in,62
+V00187,2025-02-06 03:37,13,0-17,M,Nausea/vomiting,5,Walk-in,58
+V00188,2025-02-06 06:32,41,35-49,F,Abdominal pain,3,Walk-in,15
+V00189,2025-02-06 10:21,57,50-64,M,Injury,3,Ambulance,37
+V00190,2025-02-06 20:36,36,35-49,F,Nausea/vomiting,3,Walk-in,29
+V00191,2025-02-07 00:28,32,18-34,F,Injury,4,Walk-in,55
+V00192,2025-02-07 03:01,49,35-49,M,Fever,3,Ambulance,28
+V00193,2025-02-07 05:44,9,0-17,M,Abdominal pain,4,Ambulance,70
+V00194,2025-02-07 08:08,91,65+,M,Nausea/vomiting,4,Walk-in,117
+V00195,2025-02-07 13:50,80,65+,M,Fever,4,Walk-in,68
+V00196,2025-02-07 16:39,79,65+,F,Chest pain,2,Walk-in,50
+V00197,2025-02-08 05:05,25,18-34,F,Rash,4,Walk-in,39
+V00198,2025-02-08 07:21,22,18-34,F,Fever,3,Walk-in,21
+V00199,2025-02-08 12:13,38,35-49,F,Injury,4,Walk-in,84
+V00200,2025-02-08 15:01,30,18-34,F,Headache,3,Walk-in,51
+V00201,2025-02-08 15:54,51,50-64,F,Shortness of breath,3,Walk-in,45
+V00202,2025-02-08 17:43,56,50-64,M,Injury,4,Walk-in,69
+V00203,2025-02-08 19:09,12,0-17,F,Chest pain,2,Walk-in,46
+V00204,2025-02-09 07:40,43,35-49,F,Rash,4,Walk-in,19
+V00205,2025-02-09 12:00,41,35-49,F,Injury,4,Walk-in,77
+V00206,2025-02-09 18:04,42,35-49,F,Back pain,4,Walk-in,82
+V00207,2025-02-09 22:25,57,50-64,M,Abdominal pain,4,Ambulance,70
+V00208,2025-02-09 23:19,58,50-64,F,Back pain,4,Walk-in,46
+V00209,2025-02-10 09:58,44,35-49,M,Laceration,4,Walk-in,26
+V00210,2025-02-10 11:42,61,50-64,F,Abdominal pain,3,Walk-in,167
+V00211,2025-02-10 18:05,35,35-49,F,Laceration,3,Walk-in,62
+V00212,2025-02-10 20:32,61,50-64,M,Injury,2,Ambulance,30
+V00213,2025-02-10 21:19,25,18-34,F,Injury,5,Ambulance,56
+V00214,2025-02-11 00:48,20,18-34,M,Laceration,5,Walk-in,27
+V00215,2025-02-11 05:50,72,65+,F,Abdominal pain,2,Walk-in,17
+V00216,2025-02-11 07:22,16,0-17,M,Injury,3,Ambulance,22
+V00217,2025-02-11 08:34,73,65+,F,Back pain,4,Walk-in,77
+V00218,2025-02-12 03:26,50,50-64,M,Abdominal pain,3,Walk-in,75
+V00219,2025-02-12 08:34,51,50-64,F,Chest pain,4,Ambulance,70
+V00220,2025-02-12 09:02,56,50-64,M,Injury,4,Walk-in,42
+V00221,2025-02-12 15:02,21,18-34,M,Laceration,5,Walk-in,49
+V00222,2025-02-12 16:05,19,18-34,M,Chest pain,3,Walk-in,19
+V00223,2025-02-12 22:05,4,0-17,M,Injury,3,Walk-in,31
+V00224,2025-02-13 03:55,36,35-49,F,Headache,4,Walk-in,76
+V00225,2025-02-13 06:08,74,65+,F,Injury,3,Walk-in,77
+V00226,2025-02-13 07:38,6,0-17,M,Fever,3,Walk-in,37
+V00227,2025-02-13 14:18,35,35-49,M,Back pain,4,Walk-in,49
+V00228,2025-02-13 16:46,18,18-34,M,Chest pain,3,Walk-in,53
+V00229,2025-02-13 21:44,56,50-64,M,Shortness of breath,3,Walk-in,74
+V00230,2025-02-14 05:01,24,18-34,F,Headache,3,Walk-in,76
+V00231,2025-02-14 23:12,47,35-49,M,Rash,4,Ambulance,51
+V00232,2025-02-15 08:44,47,35-49,M,Injury,2,Walk-in,12
+V00233,2025-02-15 12:07,61,50-64,M,Shortness of breath,3,Walk-in,41
+V00234,2025-02-15 19:58,61,50-64,F,Abdominal pain,3,Ambulance,57
+V00235,2025-02-16 02:09,58,50-64,M,Back pain,3,Walk-in,38
+V00236,2025-02-16 03:05,53,50-64,F,Rash,5,Walk-in,86
+V00237,2025-02-16 06:56,48,35-49,M,Chest pain,3,Walk-in,31
+V00238,2025-02-17 00:51,60,50-64,F,Headache,5,Walk-in,32
+V00239,2025-02-17 03:13,40,35-49,F,Headache,3,Walk-in,20
+V00240,2025-02-17 08:38,5,0-17,M,Shortness of breath,3,Walk-in,24
+V00241,2025-02-17 12:56,79,65+,M,Injury,4,Walk-in,68
+V00242,2025-02-17 19:33,1,0-17,M,Injury,5,Walk-in,85
+V00243,2025-02-17 23:46,37,35-49,M,Chest pain,3,Walk-in,29
+V00244,2025-02-18 00:40,45,35-49,M,Nausea/vomiting,3,Walk-in,35
+V00245,2025-02-18 11:25,91,65+,M,Back pain,4,Walk-in,36
+V00246,2025-02-18 16:45,3,0-17,M,Chest pain,2,Walk-in,19
+V00247,2025-02-19 11:56,10,0-17,F,Chest pain,2,Walk-in,25
+V00248,2025-02-19 17:08,54,50-64,M,Headache,3,Ambulance,34
+V00249,2025-02-20 04:37,64,50-64,F,Chest pain,3,Walk-in,39
+V00250,2025-02-20 07:34,24,18-34,F,Abdominal pain,2,Walk-in,17
+V00251,2025-02-20 11:20,25,18-34,F,Chest pain,3,Walk-in,43
+V00252,2025-02-20 11:24,37,35-49,M,Fever,4,Walk-in,95
+V00253,2025-02-20 14:49,37,35-49,M,Rash,4,Ambulance,52
+V00254,2025-02-20 14:58,56,50-64,M,Laceration,4,Ambulance,82
+V00255,2025-02-20 18:43,29,18-34,M,Fever,3,Walk-in,54
+V00256,2025-02-20 19:50,80,65+,M,Fever,3,Walk-in,40
+V00257,2025-02-20 22:46,84,65+,F,Nausea/vomiting,3,Walk-in,57
+V00258,2025-02-21 04:27,28,18-34,F,Injury,2,Walk-in,21
+V00259,2025-02-21 18:35,11,0-17,M,Injury,4,Walk-in,99
+V00260,2025-02-22 00:07,92,65+,F,Shortness of breath,3,Walk-in,52
+V00261,2025-02-22 05:29,62,50-64,F,Chest pain,2,Ambulance,11
+V00262,2025-02-22 18:57,59,50-64,F,Fever,4,Walk-in,64
+V00263,2025-02-22 20:06,86,65+,F,Nausea/vomiting,5,Walk-in,105
+V00264,2025-02-23 01:04,71,65+,M,Abdominal pain,3,Walk-in,22
+V00265,2025-02-23 01:05,44,35-49,F,Headache,4,Walk-in,62
+V00266,2025-02-23 12:31,51,50-64,M,Headache,3,Walk-in,76
+V00267,2025-02-23 20:29,40,35-49,M,Abdominal pain,4,Walk-in,67
+V00268,2025-02-24 04:11,15,0-17,M,Injury,4,Walk-in,25
+V00269,2025-02-24 19:07,21,18-34,F,Rash,4,Walk-in,91
+V00270,2025-02-24 19:24,0,0-17,F,Laceration,5,Walk-in,31
+V00271,2025-02-25 05:43,47,35-49,M,Shortness of breath,3,Walk-in,60
+V00272,2025-02-25 11:12,3,0-17,M,Back pain,4,Walk-in,79
+V00273,2025-02-25 12:06,25,18-34,F,Chest pain,2,Walk-in,28
+V00274,2025-02-25 12:58,25,18-34,F,Headache,3,Walk-in,60
+V00275,2025-02-25 12:58,52,50-64,M,Abdominal pain,3,Ambulance,39
+V00276,2025-02-25 17:58,16,0-17,F,Chest pain,2,Ambulance,9
+V00277,2025-02-26 00:39,34,18-34,M,Back pain,4,Walk-in,11
+V00278,2025-02-26 04:12,86,65+,M,Abdominal pain,3,Ambulance,31
+V00279,2025-02-26 14:44,25,18-34,M,Injury,3,Walk-in,151
+V00280,2025-02-26 16:36,25,18-34,F,Chest pain,2,Ambulance,26
+V00281,2025-02-26 17:13,38,35-49,F,Shortness of breath,3,Walk-in,29
+V00282,2025-02-27 00:39,19,18-34,M,Abdominal pain,3,Walk-in,89
+V00283,2025-02-27 01:33,50,50-64,F,Headache,3,Ambulance,51
+V00284,2025-02-27 15:22,44,35-49,M,Injury,5,Walk-in,73
+V00285,2025-02-27 21:31,4,0-17,M,Nausea/vomiting,3,Walk-in,33
+V00286,2025-02-27 22:28,19,18-34,F,Nausea/vomiting,3,Ambulance,22
+V00287,2025-02-28 04:34,25,18-34,F,Abdominal pain,3,Walk-in,63
+V00288,2025-02-28 04:36,73,65+,F,Fever,5,Ambulance,50
+V00289,2025-02-28 09:49,47,35-49,F,Shortness of breath,3,Walk-in,55
+V00290,2025-02-28 10:15,22,18-34,M,Shortness of breath,2,Walk-in,17
+V00291,2025-02-28 13:12,42,35-49,M,Abdominal pain,3,Walk-in,52
+V00292,2025-02-28 13:56,32,18-34,M,Fever,3,Walk-in,68
+V00293,2025-02-28 15:23,44,35-49,F,Fever,3,Walk-in,103
+V00294,2025-02-28 18:28,75,65+,F,Injury,4,Walk-in,60
+V00295,2025-02-28 18:53,57,50-64,F,Fever,5,Walk-in,75
+V00296,2025-02-28 19:45,53,50-64,F,Headache,4,Walk-in,68
+V00297,2025-03-01 05:27,5,0-17,F,Abdominal pain,3,Walk-in,22
+V00298,2025-03-01 06:41,24,18-34,M,Nausea/vomiting,4,Walk-in,35
+V00299,2025-03-01 16:09,66,65+,F,Back pain,2,Walk-in,43
+V00300,2025-03-01 18:42,19,18-34,F,Abdominal pain,2,Walk-in,29
+V00301,2025-03-02 00:08,25,18-34,M,Abdominal pain,4,Walk-in,41
+V00302,2025-03-02 01:14,12,0-17,M,Abdominal pain,3,Walk-in,32
+V00303,2025-03-02 06:10,63,50-64,F,Nausea/vomiting,3,Ambulance,21
+V00304,2025-03-02 10:15,53,50-64,F,Fever,2,Walk-in,13
+V00305,2025-03-02 11:10,12,0-17,F,Abdominal pain,4,Walk-in,52
+V00306,2025-03-02 12:44,80,65+,M,Abdominal pain,4,Ambulance,49
+V00307,2025-03-02 17:01,58,50-64,M,Shortness of breath,2,Walk-in,23
+V00308,2025-03-02 19:51,10,0-17,M,Laceration,4,Walk-in,44
+V00309,2025-03-03 01:40,17,0-17,M,Injury,4,Walk-in,80
+V00310,2025-03-03 13:05,47,35-49,M,Nausea/vomiting,4,Ambulance,48
+V00311,2025-03-03 17:57,52,50-64,M,Headache,3,Walk-in,35
+V00312,2025-03-03 22:26,20,18-34,M,Rash,4,Ambulance,107
+V00313,2025-03-04 00:05,63,50-64,F,Chest pain,4,Walk-in,19
+V00314,2025-03-04 04:37,27,18-34,F,Rash,5,Walk-in,37
+V00315,2025-03-04 05:33,29,18-34,F,Headache,4,Walk-in,48
+V00316,2025-03-04 13:42,62,50-64,F,Abdominal pain,4,Walk-in,106
+V00317,2025-03-04 16:57,63,50-64,F,Headache,4,Walk-in,66
+V00318,2025-03-04 19:23,32,18-34,M,Abdominal pain,2,Walk-in,35
+V00319,2025-03-05 01:12,26,18-34,F,Headache,4,Walk-in,23
+V00320,2025-03-05 03:01,5,0-17,M,Shortness of breath,2,Walk-in,12
+V00321,2025-03-05 04:47,58,50-64,F,Chest pain,3,Walk-in,28
+V00322,2025-03-05 19:38,55,50-64,F,Injury,2,Walk-in,26
+V00323,2025-03-05 22:17,32,18-34,F,Injury,4,Ambulance,26
+V00324,2025-03-06 00:28,5,0-17,F,Nausea/vomiting,3,Ambulance,43
+V00325,2025-03-06 00:56,50,50-64,M,Headache,4,Walk-in,41
+V00326,2025-03-06 01:49,34,18-34,M,Shortness of breath,2,Walk-in,12
+V00327,2025-03-06 04:08,49,35-49,M,Back pain,5,Walk-in,79
+V00328,2025-03-06 06:13,23,18-34,F,Nausea/vomiting,3,Walk-in,41
+V00329,2025-03-06 10:06,76,65+,M,Shortness of breath,3,Ambulance,21
+V00330,2025-03-06 18:11,18,18-34,M,Shortness of breath,2,Walk-in,38
+V00331,2025-03-06 19:47,42,35-49,M,Fever,3,Walk-in,167
+V00332,2025-03-07 03:32,10,0-17,M,Shortness of breath,1,Walk-in,8
+V00333,2025-03-07 04:30,23,18-34,M,Abdominal pain,3,Walk-in,28
+V00334,2025-03-07 11:59,57,50-64,M,Back pain,4,Walk-in,47
+V00335,2025-03-07 13:43,36,35-49,F,Back pain,4,Walk-in,66
+V00336,2025-03-07 15:20,11,0-17,M,Abdominal pain,3,Walk-in,60
+V00337,2025-03-07 18:29,15,0-17,M,Shortness of breath,3,Walk-in,20
+V00338,2025-03-07 23:49,21,18-34,M,Chest pain,3,Ambulance,41
+V00339,2025-03-08 02:40,44,35-49,M,Abdominal pain,2,Ambulance,25
+V00340,2025-03-08 09:45,61,50-64,M,Chest pain,3,Walk-in,58
+V00341,2025-03-08 11:13,66,65+,F,Rash,4,Walk-in,71
+V00342,2025-03-08 15:02,0,0-17,F,Abdominal pain,3,Walk-in,12
+V00343,2025-03-08 19:05,28,18-34,F,Laceration,5,Walk-in,58
+V00344,2025-03-08 19:42,48,35-49,F,Nausea/vomiting,4,Walk-in,128
+V00345,2025-03-09 04:12,64,50-64,M,Nausea/vomiting,3,Walk-in,24
+V00346,2025-03-09 05:44,6,0-17,M,Back pain,4,Ambulance,42
+V00347,2025-03-09 05:47,60,50-64,M,Abdominal pain,2,Walk-in,22
+V00348,2025-03-09 08:05,0,0-17,F,Fever,4,Walk-in,44
+V00349,2025-03-09 13:26,2,0-17,M,Rash,5,Walk-in,83
+V00350,2025-03-09 13:48,40,35-49,M,Chest pain,3,Walk-in,32
+V00351,2025-03-09 17:08,20,18-34,F,Injury,4,Walk-in,77
+V00352,2025-03-10 01:21,64,50-64,M,Abdominal pain,4,Walk-in,108
+V00353,2025-03-10 07:28,86,65+,M,Injury,3,Walk-in,81
+V00354,2025-03-10 10:25,18,18-34,F,Shortness of breath,4,Walk-in,36
+V00355,2025-03-10 12:47,12,0-17,M,Nausea/vomiting,5,Walk-in,114
+V00356,2025-03-10 22:41,75,65+,F,Laceration,4,Walk-in,141
+V00357,2025-03-10 23:48,80,65+,F,Shortness of breath,3,Walk-in,36
+V00358,2025-03-11 09:51,64,50-64,F,Injury,2,Walk-in,13
+V00359,2025-03-11 12:19,32,18-34,M,Injury,4,Walk-in,79
+V00360,2025-03-11 16:39,21,18-34,F,Nausea/vomiting,3,Ambulance,27
+V00361,2025-03-12 06:40,41,35-49,F,Rash,4,Ambulance,45
+V00362,2025-03-12 15:05,61,50-64,M,Fever,2,Walk-in,19
+V00363,2025-03-12 19:17,55,50-64,M,Fever,3,Walk-in,64
+V00364,2025-03-12 19:39,35,35-49,M,Chest pain,3,Walk-in,54
+V00365,2025-03-13 01:07,19,18-34,M,Nausea/vomiting,2,Walk-in,15
+V00366,2025-03-13 02:35,30,18-34,M,Nausea/vomiting,4,Walk-in,36
+V00367,2025-03-13 08:04,58,50-64,M,Fever,4,Walk-in,53
+V00368,2025-03-13 13:22,7,0-17,M,Laceration,4,Walk-in,53
+V00369,2025-03-13 14:50,84,65+,M,Chest pain,3,Walk-in,36
+V00370,2025-03-13 20:42,34,18-34,M,Nausea/vomiting,3,Walk-in,77
+V00371,2025-03-13 21:38,24,18-34,F,Chest pain,2,Walk-in,75
+V00372,2025-03-13 22:51,52,50-64,M,Nausea/vomiting,3,Ambulance,40
+V00373,2025-03-13 23:53,62,50-64,F,Abdominal pain,3,Walk-in,28
+V00374,2025-03-14 03:53,19,18-34,F,Fever,5,Walk-in,38
+V00375,2025-03-14 06:16,42,35-49,M,Injury,3,Walk-in,26
+V00376,2025-03-14 08:07,48,35-49,F,Back pain,4,Walk-in,46
+V00377,2025-03-14 10:55,72,65+,F,Injury,3,Walk-in,55
+V00378,2025-03-14 22:30,25,18-34,M,Injury,4,Walk-in,30
+V00379,2025-03-15 03:28,80,65+,F,Back pain,5,Ambulance,92
+V00380,2025-03-15 05:12,69,65+,F,Nausea/vomiting,5,Walk-in,33
+V00381,2025-03-15 09:29,93,65+,M,Abdominal pain,4,Ambulance,26
+V00382,2025-03-15 10:45,48,35-49,F,Chest pain,3,Ambulance,41
+V00383,2025-03-15 11:09,63,50-64,F,Headache,3,Walk-in,59
+V00384,2025-03-15 17:08,13,0-17,M,Abdominal pain,2,Ambulance,16
+V00385,2025-03-15 19:08,91,65+,M,Fever,2,Walk-in,45
+V00386,2025-03-15 20:30,61,50-64,M,Chest pain,2,Ambulance,21
+V00387,2025-03-15 21:52,10,0-17,M,Back pain,5,Walk-in,57
+V00388,2025-03-16 01:31,8,0-17,F,Injury,3,Walk-in,10
+V00389,2025-03-16 11:35,36,35-49,F,Abdominal pain,4,Ambulance,66
+V00390,2025-03-16 12:26,56,50-64,M,Fever,4,Walk-in,137
+V00391,2025-03-16 12:30,38,35-49,M,Rash,5,Ambulance,112
+V00392,2025-03-17 13:04,41,35-49,M,Injury,4,Walk-in,135
+V00393,2025-03-17 17:44,21,18-34,M,Laceration,4,Walk-in,131
+V00394,2025-03-17 18:14,8,0-17,M,Back pain,4,Walk-in,65
+V00395,2025-03-17 18:52,27,18-34,F,Back pain,3,Ambulance,38
+V00396,2025-03-17 19:50,84,65+,F,Chest pain,3,Walk-in,106
+V00397,2025-03-17 23:10,21,18-34,F,Back pain,4,Walk-in,54
+V00398,2025-03-18 02:54,7,0-17,F,Laceration,4,Walk-in,73
+V00399,2025-03-18 07:04,88,65+,F,Injury,4,Walk-in,68
+V00400,2025-03-18 09:08,57,50-64,F,Chest pain,3,Ambulance,31
+V00401,2025-03-18 16:14,92,65+,M,Laceration,4,Walk-in,175
+V00402,2025-03-18 18:17,15,0-17,M,Abdominal pain,3,Walk-in,102
+V00403,2025-03-19 00:05,59,50-64,F,Headache,3,Walk-in,49
+V00404,2025-03-19 01:03,50,50-64,M,Abdominal pain,3,Walk-in,13
+V00405,2025-03-19 09:07,54,50-64,F,Chest pain,2,Walk-in,33
+V00406,2025-03-19 16:03,69,65+,M,Abdominal pain,2,Walk-in,43
+V00407,2025-03-19 16:09,16,0-17,M,Chest pain,3,Walk-in,100
+V00408,2025-03-19 22:03,2,0-17,M,Abdominal pain,4,Walk-in,41
+V00409,2025-03-19 23:16,49,35-49,M,Injury,3,Walk-in,17
+V00410,2025-03-20 01:18,59,50-64,F,Back pain,5,Walk-in,82
+V00411,2025-03-20 07:16,59,50-64,F,Headache,5,Walk-in,91
+V00412,2025-03-20 09:29,54,50-64,F,Laceration,4,Walk-in,89
+V00413,2025-03-20 11:45,31,18-34,F,Back pain,5,Ambulance,73
+V00414,2025-03-20 18:55,85,65+,F,Back pain,3,Walk-in,52
+V00415,2025-03-20 19:11,72,65+,M,Shortness of breath,3,Walk-in,90
+V00416,2025-03-21 00:03,52,50-64,F,Fever,2,Walk-in,14
+V00417,2025-03-21 02:07,25,18-34,M,Chest pain,2,Ambulance,15
+V00418,2025-03-21 07:44,32,18-34,M,Back pain,4,Ambulance,31
+V00419,2025-03-21 09:21,32,18-34,F,Laceration,5,Walk-in,62
+V00420,2025-03-21 10:05,41,35-49,F,Shortness of breath,3,Walk-in,28
+V00421,2025-03-21 21:46,57,50-64,F,Back pain,4,Walk-in,62
+V00422,2025-03-21 22:39,50,50-64,F,Injury,3,Ambulance,35
+V00423,2025-03-22 02:01,16,0-17,M,Fever,3,Walk-in,21
+V00424,2025-03-22 16:16,64,50-64,M,Abdominal pain,4,Walk-in,43
+V00425,2025-03-22 17:20,57,50-64,F,Abdominal pain,3,Walk-in,24
+V00426,2025-03-22 17:42,50,50-64,M,Fever,3,Walk-in,44
+V00427,2025-03-23 08:23,22,18-34,M,Laceration,4,Walk-in,18
+V00428,2025-03-23 08:32,20,18-34,F,Chest pain,3,Ambulance,9
+V00429,2025-03-23 14:18,80,65+,M,Injury,4,Ambulance,50
+V00430,2025-03-23 14:39,25,18-34,M,Laceration,5,Walk-in,51
+V00431,2025-03-23 17:14,52,50-64,F,Back pain,3,Walk-in,43
+V00432,2025-03-23 20:06,57,50-64,F,Chest pain,2,Walk-in,17
+V00433,2025-03-24 01:13,87,65+,M,Nausea/vomiting,3,Walk-in,55
+V00434,2025-03-24 08:23,77,65+,M,Injury,2,Walk-in,24
+V00435,2025-03-24 08:29,0,0-17,M,Headache,5,Walk-in,59
+V00436,2025-03-24 12:02,48,35-49,F,Rash,4,Walk-in,41
+V00437,2025-03-24 14:27,88,65+,F,Fever,3,Ambulance,172
+V00438,2025-03-24 17:05,51,50-64,M,Rash,5,Walk-in,69
+V00439,2025-03-25 02:42,36,35-49,F,Headache,4,Walk-in,22
+V00440,2025-03-25 05:06,22,18-34,M,Rash,3,Walk-in,32
+V00441,2025-03-25 06:22,87,65+,M,Headache,4,Walk-in,56
+V00442,2025-03-25 09:09,37,35-49,F,Shortness of breath,3,Walk-in,35
+V00443,2025-03-25 09:29,6,0-17,M,Abdominal pain,4,Walk-in,34
+V00444,2025-03-25 09:36,58,50-64,F,Shortness of breath,3,Walk-in,54
+V00445,2025-03-25 10:44,20,18-34,M,Fever,4,Walk-in,23
+V00446,2025-03-25 12:05,56,50-64,M,Injury,4,Walk-in,54
+V00447,2025-03-25 15:09,91,65+,F,Abdominal pain,3,Walk-in,43
+V00448,2025-03-25 22:30,18,18-34,F,Abdominal pain,3,Walk-in,38
+V00449,2025-03-26 06:41,66,65+,M,Rash,5,Walk-in,29
+V00450,2025-03-26 13:00,42,35-49,F,Chest pain,2,Walk-in,31
+V00451,2025-03-26 15:01,34,18-34,F,Nausea/vomiting,3,Walk-in,60
+V00452,2025-03-26 15:08,24,18-34,M,Nausea/vomiting,2,Ambulance,12
+V00453,2025-03-26 15:23,66,65+,M,Nausea/vomiting,2,Walk-in,16
+V00454,2025-03-26 19:52,8,0-17,M,Abdominal pain,3,Walk-in,30
+V00455,2025-03-27 07:33,18,18-34,F,Rash,5,Walk-in,71
+V00456,2025-03-27 09:51,22,18-34,M,Shortness of breath,2,Walk-in,26
+V00457,2025-03-27 16:28,18,18-34,M,Fever,3,Walk-in,58
+V00458,2025-03-28 11:48,63,50-64,F,Shortness of breath,3,Walk-in,59
+V00459,2025-03-28 15:41,3,0-17,M,Back pain,5,Walk-in,42
+V00460,2025-03-28 17:35,7,0-17,F,Back pain,5,Walk-in,53
+V00461,2025-03-28 19:52,53,50-64,M,Injury,4,Walk-in,104
+V00462,2025-03-28 21:50,19,18-34,F,Injury,3,Ambulance,44
+V00463,2025-03-29 00:43,21,18-34,M,Fever,3,Walk-in,27
+V00464,2025-03-29 04:58,87,65+,F,Headache,4,Walk-in,53
+V00465,2025-03-29 06:09,93,65+,M,Chest pain,3,Walk-in,47
+V00466,2025-03-29 16:18,42,35-49,M,Back pain,3,Walk-in,122
+V00467,2025-03-29 17:27,32,18-34,M,Injury,4,Walk-in,178
+V00468,2025-03-29 22:33,25,18-34,M,Nausea/vomiting,3,Walk-in,29
+V00469,2025-03-30 04:20,14,0-17,M,Abdominal pain,4,Walk-in,33
+V00470,2025-03-30 05:26,77,65+,F,Laceration,3,Walk-in,91
+V00471,2025-03-30 07:41,36,35-49,F,Nausea/vomiting,3,Walk-in,78
+V00472,2025-03-30 12:01,90,65+,M,Abdominal pain,3,Walk-in,76
+V00473,2025-03-30 17:19,25,18-34,F,Headache,4,Walk-in,104
+V00474,2025-03-30 18:34,60,50-64,F,Nausea/vomiting,4,Walk-in,115
+V00475,2025-03-30 22:19,70,65+,M,Injury,2,Walk-in,16
+V00476,2025-03-31 06:14,47,35-49,M,Abdominal pain,3,Walk-in,29
+V00477,2025-03-31 14:25,31,18-34,F,Laceration,5,Walk-in,72
+V00478,2025-04-01 01:13,70,65+,M,Abdominal pain,3,Ambulance,35
+V00479,2025-04-01 04:13,48,35-49,M,Rash,4,Ambulance,51
+V00480,2025-04-01 07:43,81,65+,M,Injury,4,Walk-in,172
+V00481,2025-04-01 10:52,57,50-64,M,Back pain,4,Walk-in,51
+V00482,2025-04-01 12:08,3,0-17,F,Laceration,5,Ambulance,23
+V00483,2025-04-01 18:12,40,35-49,M,Headache,3,Walk-in,35
+V00484,2025-04-02 03:08,73,65+,F,Back pain,4,Walk-in,31
+V00485,2025-04-02 14:10,50,50-64,M,Abdominal pain,3,Ambulance,102
+V00486,2025-04-02 14:24,55,50-64,F,Fever,4,Walk-in,68
+V00487,2025-04-02 17:14,71,65+,M,Fever,1,Walk-in,7
+V00488,2025-04-03 00:35,45,35-49,M,Shortness of breath,2,Walk-in,27
+V00489,2025-04-03 03:31,61,50-64,F,Injury,2,Walk-in,20
+V00490,2025-04-03 10:34,5,0-17,M,Shortness of breath,2,Walk-in,7
+V00491,2025-04-03 10:48,35,35-49,M,Back pain,4,Walk-in,82
+V00492,2025-04-03 14:17,67,65+,F,Injury,2,Walk-in,28
+V00493,2025-04-03 14:57,14,0-17,F,Laceration,4,Walk-in,25
+V00494,2025-04-03 17:57,38,35-49,F,Headache,4,Walk-in,104
+V00495,2025-04-03 19:49,26,18-34,M,Chest pain,3,Walk-in,67
+V00496,2025-04-03 22:47,94,65+,M,Nausea/vomiting,3,Walk-in,45
+V00497,2025-04-04 06:16,76,65+,F,Abdominal pain,1,Walk-in,2
+V00498,2025-04-04 15:52,64,50-64,M,Fever,3,Walk-in,40
+V00499,2025-04-04 17:46,79,65+,M,Laceration,5,Walk-in,170
+V00500,2025-04-04 22:54,85,65+,M,Laceration,2,Walk-in,16
+V00501,2025-04-05 07:53,91,65+,M,Back pain,4,Ambulance,97
+V00502,2025-04-05 10:42,19,18-34,M,Injury,3,Walk-in,33
+V00503,2025-04-05 13:15,32,18-34,F,Back pain,3,Walk-in,75
+V00504,2025-04-05 15:54,11,0-17,F,Injury,4,Ambulance,50
+V00505,2025-04-06 08:19,17,0-17,M,Abdominal pain,3,Ambulance,25
+V00506,2025-04-06 11:44,37,35-49,F,Injury,4,Walk-in,40
+V00507,2025-04-06 12:14,45,35-49,M,Abdominal pain,2,Ambulance,19
+V00508,2025-04-06 22:02,73,65+,M,Laceration,4,Walk-in,28
+V00509,2025-04-07 04:49,59,50-64,F,Injury,4,Walk-in,64
+V00510,2025-04-07 14:09,11,0-17,M,Chest pain,2,Ambulance,18
+V00511,2025-04-07 15:58,6,0-17,F,Laceration,4,Walk-in,52
+V00512,2025-04-07 19:03,37,35-49,M,Abdominal pain,3,Walk-in,54
+V00513,2025-04-08 04:30,12,0-17,F,Rash,5,Walk-in,45
+V00514,2025-04-08 12:31,34,18-34,M,Injury,5,Walk-in,60
+V00515,2025-04-08 16:17,7,0-17,F,Abdominal pain,3,Ambulance,24
+V00516,2025-04-08 16:21,50,50-64,F,Back pain,4,Walk-in,59
+V00517,2025-04-08 18:11,45,35-49,M,Shortness of breath,2,Walk-in,36
+V00518,2025-04-09 01:36,72,65+,F,Laceration,4,Walk-in,61
+V00519,2025-04-09 09:41,47,35-49,M,Nausea/vomiting,3,Walk-in,37
+V00520,2025-04-10 00:34,46,35-49,M,Injury,4,Ambulance,90
+V00521,2025-04-10 07:54,46,35-49,M,Shortness of breath,2,Walk-in,20
+V00522,2025-04-10 09:54,90,65+,F,Laceration,4,Ambulance,100
+V00523,2025-04-10 14:35,9,0-17,M,Headache,4,Walk-in,49
+V00524,2025-04-10 14:59,31,18-34,M,Injury,2,Walk-in,42
+V00525,2025-04-11 01:10,29,18-34,M,Back pain,5,Ambulance,202
+V00526,2025-04-11 05:31,19,18-34,M,Injury,3,Walk-in,28
+V00527,2025-04-12 06:41,92,65+,M,Abdominal pain,3,Walk-in,27
+V00528,2025-04-12 15:58,51,50-64,M,Back pain,4,Ambulance,61
+V00529,2025-04-12 23:58,64,50-64,M,Abdominal pain,3,Walk-in,71
+V00530,2025-04-13 00:38,2,0-17,F,Injury,4,Ambulance,20
+V00531,2025-04-13 04:03,59,50-64,M,Chest pain,2,Walk-in,29
+V00532,2025-04-13 15:38,36,35-49,M,Nausea/vomiting,4,Walk-in,66
+V00533,2025-04-13 16:19,26,18-34,M,Headache,3,Walk-in,40
+V00534,2025-04-14 02:12,61,50-64,M,Laceration,4,Ambulance,58
+V00535,2025-04-14 02:39,15,0-17,M,Injury,4,Walk-in,31
+V00536,2025-04-14 03:07,2,0-17,F,Chest pain,3,Walk-in,37
+V00537,2025-04-14 04:41,30,18-34,F,Injury,3,Walk-in,27
+V00538,2025-04-14 22:04,18,18-34,F,Laceration,5,Walk-in,29
+V00539,2025-04-14 22:45,73,65+,M,Injury,2,Ambulance,32
+V00540,2025-04-14 23:08,27,18-34,F,Chest pain,1,Walk-in,4
+V00541,2025-04-15 00:23,58,50-64,F,Chest pain,2,Ambulance,24
+V00542,2025-04-15 00:38,77,65+,F,Headache,2,Walk-in,9
+V00543,2025-04-15 00:55,66,65+,M,Abdominal pain,3,Ambulance,28
+V00544,2025-04-15 00:59,81,65+,M,Injury,3,Ambulance,25
+V00545,2025-04-15 06:50,66,65+,F,Back pain,3,Walk-in,44
+V00546,2025-04-15 10:18,79,65+,F,Abdominal pain,3,Walk-in,40
+V00547,2025-04-15 18:18,37,35-49,F,Injury,5,Walk-in,145
+V00548,2025-04-15 20:24,16,0-17,F,Abdominal pain,2,Walk-in,35
+V00549,2025-04-15 21:50,47,35-49,M,Chest pain,3,Walk-in,92
+V00550,2025-04-15 23:47,54,50-64,M,Chest pain,2,Walk-in,31
+V00551,2025-04-16 02:12,71,65+,M,Back pain,4,Walk-in,48
+V00552,2025-04-16 03:32,40,35-49,M,Shortness of breath,2,Walk-in,16
+V00553,2025-04-16 14:01,19,18-34,M,Laceration,3,Walk-in,42
+V00554,2025-04-17 03:33,82,65+,M,Headache,3,Walk-in,45
+V00555,2025-04-17 05:19,44,35-49,M,Fever,3,Walk-in,42
+V00556,2025-04-17 11:45,57,50-64,F,Chest pain,4,Ambulance,88
+V00557,2025-04-17 17:10,89,65+,F,Chest pain,2,Walk-in,33
+V00558,2025-04-17 19:53,48,35-49,F,Laceration,5,Ambulance,94
+V00559,2025-04-17 22:01,15,0-17,F,Back pain,4,Walk-in,37
+V00560,2025-04-18 00:02,84,65+,M,Chest pain,3,Walk-in,72
+V00561,2025-04-18 01:41,30,18-34,M,Fever,4,Walk-in,27
+V00562,2025-04-18 05:05,40,35-49,M,Abdominal pain,3,Walk-in,38
+V00563,2025-04-18 08:31,15,0-17,F,Chest pain,4,Walk-in,41
+V00564,2025-04-18 08:51,80,65+,M,Nausea/vomiting,3,Walk-in,70
+V00565,2025-04-18 14:41,40,35-49,M,Rash,3,Walk-in,45
+V00566,2025-04-18 14:44,20,18-34,M,Shortness of breath,2,Walk-in,15
+V00567,2025-04-18 15:58,82,65+,M,Nausea/vomiting,4,Ambulance,123
+V00568,2025-04-18 15:58,35,35-49,F,Abdominal pain,4,Walk-in,35
+V00569,2025-04-18 17:58,9,0-17,M,Chest pain,2,Walk-in,13
+V00570,2025-04-19 01:21,50,50-64,M,Laceration,4,Walk-in,35
+V00571,2025-04-19 02:55,47,35-49,M,Nausea/vomiting,3,Walk-in,40
+V00572,2025-04-19 06:03,33,18-34,F,Fever,4,Walk-in,101
+V00573,2025-04-19 11:12,68,65+,F,Nausea/vomiting,3,Walk-in,37
+V00574,2025-04-19 17:05,82,65+,F,Injury,4,Ambulance,74
+V00575,2025-04-19 19:02,21,18-34,M,Chest pain,1,Ambulance,2
+V00576,2025-04-20 01:15,62,50-64,M,Chest pain,2,Walk-in,26
+V00577,2025-04-20 08:48,62,50-64,M,Shortness of breath,3,Walk-in,79
+V00578,2025-04-20 08:51,11,0-17,F,Fever,3,Walk-in,43
+V00579,2025-04-20 19:29,28,18-34,M,Injury,4,Walk-in,84
+V00580,2025-04-21 03:21,35,35-49,F,Headache,3,Ambulance,36
+V00581,2025-04-21 16:05,32,18-34,F,Headache,4,Walk-in,89
+V00582,2025-04-21 19:52,39,35-49,M,Injury,2,Walk-in,23
+V00583,2025-04-21 20:20,55,50-64,M,Fever,3,Walk-in,108
+V00584,2025-04-22 00:15,71,65+,F,Chest pain,2,Walk-in,11
+V00585,2025-04-22 02:28,57,50-64,M,Back pain,4,Walk-in,90
+V00586,2025-04-22 04:56,73,65+,M,Shortness of breath,3,Walk-in,45
+V00587,2025-04-22 07:06,22,18-34,F,Rash,5,Walk-in,37
+V00588,2025-04-22 16:06,18,18-34,F,Abdominal pain,4,Walk-in,65
+V00589,2025-04-22 18:14,14,0-17,F,Injury,5,Walk-in,84
+V00590,2025-04-22 18:52,39,35-49,M,Chest pain,2,Ambulance,32
+V00591,2025-04-22 21:25,29,18-34,M,Injury,4,Walk-in,31
+V00592,2025-04-23 06:31,56,50-64,F,Chest pain,3,Walk-in,25
+V00593,2025-04-23 10:40,37,35-49,F,Headache,3,Walk-in,22
+V00594,2025-04-23 11:43,62,50-64,F,Injury,3,Walk-in,52
+V00595,2025-04-24 00:54,25,18-34,M,Headache,4,Walk-in,35
+V00596,2025-04-24 00:55,19,18-34,F,Laceration,4,Walk-in,55
+V00597,2025-04-24 06:27,90,65+,M,Abdominal pain,3,Walk-in,66
+V00598,2025-04-24 06:49,55,50-64,F,Abdominal pain,3,Walk-in,27
+V00599,2025-04-24 07:19,12,0-17,F,Chest pain,3,Walk-in,18
+V00600,2025-04-24 08:38,19,18-34,F,Laceration,5,Walk-in,41
+V00601,2025-04-24 09:13,34,18-34,M,Injury,3,Walk-in,13
+V00602,2025-04-24 14:27,52,50-64,F,Abdominal pain,2,Walk-in,17
+V00603,2025-04-24 18:45,73,65+,M,Abdominal pain,3,Walk-in,53
+V00604,2025-04-25 00:19,52,50-64,F,Injury,2,Walk-in,16
+V00605,2025-04-26 02:43,8,0-17,M,Chest pain,2,Walk-in,23
+V00606,2025-04-26 02:45,51,50-64,M,Rash,3,Ambulance,54
+V00607,2025-04-26 21:38,67,65+,M,Back pain,4,Walk-in,109
+V00608,2025-04-27 08:27,4,0-17,F,Fever,4,Walk-in,32
+V00609,2025-04-27 16:00,61,50-64,F,Abdominal pain,3,Walk-in,103
+V00610,2025-04-27 19:09,76,65+,M,Shortness of breath,2,Ambulance,31
+V00611,2025-04-27 22:01,29,18-34,F,Chest pain,2,Walk-in,15
+V00612,2025-04-27 22:30,60,50-64,M,Abdominal pain,4,Walk-in,71
+V00613,2025-04-28 02:22,30,18-34,M,Fever,2,Walk-in,29
+V00614,2025-04-28 05:12,18,18-34,M,Fever,5,Walk-in,40
+V00615,2025-04-28 07:24,63,50-64,M,Injury,4,Walk-in,35
+V00616,2025-04-28 12:12,85,65+,F,Chest pain,3,Walk-in,59
+V00617,2025-04-28 12:41,27,18-34,M,Injury,4,Walk-in,130
+V00618,2025-04-28 15:47,4,0-17,F,Nausea/vomiting,3,Ambulance,61
+V00619,2025-04-29 10:24,57,50-64,M,Abdominal pain,3,Ambulance,30
+V00620,2025-04-29 11:21,47,35-49,M,Fever,5,Walk-in,114
+V00621,2025-04-29 15:33,15,0-17,F,Abdominal pain,3,Walk-in,69
+V00622,2025-04-29 15:34,77,65+,M,Back pain,4,Walk-in,128
+V00623,2025-04-29 16:14,37,35-49,M,Laceration,4,Walk-in,68
+V00624,2025-04-29 17:13,38,35-49,F,Laceration,4,Walk-in,58
+V00625,2025-04-29 18:04,92,65+,F,Fever,5,Walk-in,98
+V00626,2025-04-29 20:38,41,35-49,M,Shortness of breath,1,Walk-in,2
+V00627,2025-04-30 01:53,3,0-17,M,Chest pain,4,Walk-in,45
+V00628,2025-04-30 02:11,46,35-49,F,Fever,2,Ambulance,29
+V00629,2025-04-30 04:14,21,18-34,F,Chest pain,3,Walk-in,24
+V00630,2025-04-30 19:14,2,0-17,F,Back pain,3,Walk-in,28
+V00631,2025-04-30 20:13,15,0-17,M,Injury,3,Walk-in,31
+V00632,2025-05-01 00:57,48,35-49,M,Laceration,4,Walk-in,31
+V00633,2025-05-01 02:22,39,35-49,M,Injury,2,Walk-in,15
+V00634,2025-05-01 02:36,21,18-34,M,Injury,4,Walk-in,19
+V00635,2025-05-01 05:15,4,0-17,M,Chest pain,2,Walk-in,25
+V00636,2025-05-01 07:25,45,35-49,F,Back pain,4,Walk-in,45
+V00637,2025-05-01 17:35,12,0-17,F,Injury,3,Walk-in,57
+V00638,2025-05-01 19:08,60,50-64,M,Fever,5,Walk-in,92
+V00639,2025-05-01 20:33,6,0-17,M,Headache,5,Walk-in,57
+V00640,2025-05-01 23:44,73,65+,F,Nausea/vomiting,3,Walk-in,29
+V00641,2025-05-02 03:03,5,0-17,F,Shortness of breath,1,Ambulance,4
+V00642,2025-05-02 15:40,33,18-34,F,Nausea/vomiting,3,Walk-in,47
+V00643,2025-05-02 23:07,29,18-34,F,Chest pain,2,Walk-in,5
+V00644,2025-05-03 00:26,26,18-34,M,Shortness of breath,2,Walk-in,15
+V00645,2025-05-03 06:43,2,0-17,F,Chest pain,2,Walk-in,31
+V00646,2025-05-03 22:55,58,50-64,F,Nausea/vomiting,4,Ambulance,113
+V00647,2025-05-04 04:05,44,35-49,F,Abdominal pain,3,Ambulance,140
+V00648,2025-05-04 09:42,41,35-49,M,Injury,4,Ambulance,63
+V00649,2025-05-04 13:53,72,65+,M,Abdominal pain,4,Walk-in,55
+V00650,2025-05-04 18:00,54,50-64,F,Fever,4,Walk-in,53
+V00651,2025-05-04 21:25,54,50-64,F,Shortness of breath,2,Walk-in,22
+V00652,2025-05-04 22:04,47,35-49,F,Fever,3,Walk-in,53
+V00653,2025-05-05 09:01,2,0-17,F,Nausea/vomiting,4,Ambulance,29
+V00654,2025-05-05 11:48,3,0-17,F,Shortness of breath,2,Walk-in,17
+V00655,2025-05-05 13:03,44,35-49,M,Injury,4,Walk-in,65
+V00656,2025-05-05 13:47,30,18-34,F,Injury,4,Ambulance,72
+V00657,2025-05-06 00:52,53,50-64,F,Abdominal pain,4,Walk-in,28
+V00658,2025-05-06 05:54,68,65+,F,Injury,4,Walk-in,62
+V00659,2025-05-06 07:32,15,0-17,M,Shortness of breath,3,Walk-in,19
+V00660,2025-05-06 07:45,39,35-49,M,Abdominal pain,3,Walk-in,25
+V00661,2025-05-07 03:02,25,18-34,M,Chest pain,3,Ambulance,24
+V00662,2025-05-07 10:42,36,35-49,F,Laceration,5,Walk-in,47
+V00663,2025-05-07 11:05,43,35-49,M,Injury,3,Walk-in,54
+V00664,2025-05-07 18:47,25,18-34,M,Chest pain,3,Ambulance,39
+V00665,2025-05-07 22:14,20,18-34,M,Fever,4,Walk-in,77
+V00666,2025-05-08 03:40,31,18-34,M,Shortness of breath,5,Ambulance,108
+V00667,2025-05-08 04:12,36,35-49,F,Abdominal pain,3,Walk-in,71
+V00668,2025-05-08 10:32,3,0-17,M,Injury,4,Walk-in,41
+V00669,2025-05-08 12:08,5,0-17,F,Shortness of breath,3,Walk-in,37
+V00670,2025-05-08 14:02,39,35-49,F,Rash,5,Walk-in,141
+V00671,2025-05-08 18:29,39,35-49,F,Abdominal pain,2,Walk-in,26
+V00672,2025-05-09 07:33,56,50-64,M,Chest pain,3,Walk-in,27
+V00673,2025-05-09 08:24,59,50-64,F,Injury,3,Walk-in,49
+V00674,2025-05-09 15:14,24,18-34,M,Shortness of breath,3,Walk-in,20
+V00675,2025-05-09 22:53,69,65+,M,Injury,5,Ambulance,100
+V00676,2025-05-10 00:04,83,65+,F,Injury,5,Ambulance,44
+V00677,2025-05-10 02:17,26,18-34,M,Chest pain,3,Walk-in,24
+V00678,2025-05-10 05:33,45,35-49,M,Abdominal pain,3,Walk-in,32
+V00679,2025-05-10 10:16,26,18-34,F,Headache,3,Walk-in,57
+V00680,2025-05-10 10:30,91,65+,M,Back pain,4,Walk-in,59
+V00681,2025-05-10 19:04,16,0-17,F,Headache,3,Walk-in,42
+V00682,2025-05-10 19:49,6,0-17,M,Shortness of breath,2,Walk-in,15
+V00683,2025-05-10 20:33,54,50-64,F,Abdominal pain,2,Walk-in,46
+V00684,2025-05-11 00:41,32,18-34,F,Back pain,3,Walk-in,13
+V00685,2025-05-11 02:42,21,18-34,F,Back pain,4,Walk-in,50
+V00686,2025-05-11 03:30,79,65+,F,Chest pain,3,Ambulance,44
+V00687,2025-05-11 11:08,25,18-34,F,Nausea/vomiting,4,Walk-in,31
+V00688,2025-05-11 16:41,52,50-64,M,Chest pain,3,Walk-in,54
+V00689,2025-05-11 17:55,32,18-34,M,Abdominal pain,2,Ambulance,19
+V00690,2025-05-11 22:15,47,35-49,M,Nausea/vomiting,4,Ambulance,25
+V00691,2025-05-11 22:40,46,35-49,M,Abdominal pain,3,Walk-in,24
+V00692,2025-05-12 08:16,21,18-34,M,Chest pain,3,Ambulance,59
+V00693,2025-05-12 17:05,13,0-17,F,Back pain,4,Ambulance,85
+V00694,2025-05-13 00:03,49,35-49,M,Headache,5,Walk-in,48
+V00695,2025-05-13 02:00,20,18-34,F,Shortness of breath,4,Ambulance,22
+V00696,2025-05-13 07:59,32,18-34,M,Nausea/vomiting,3,Walk-in,23
+V00697,2025-05-13 09:49,27,18-34,M,Shortness of breath,2,Walk-in,9
+V00698,2025-05-13 13:27,2,0-17,F,Nausea/vomiting,4,Walk-in,54
+V00699,2025-05-13 15:22,50,50-64,M,Injury,4,Walk-in,40
+V00700,2025-05-13 15:49,37,35-49,M,Chest pain,4,Walk-in,43
+V00701,2025-05-13 17:08,34,18-34,F,Chest pain,3,Walk-in,70
+V00702,2025-05-13 17:55,51,50-64,F,Laceration,4,Walk-in,93
+V00703,2025-05-13 19:59,21,18-34,M,Rash,4,Walk-in,66
+V00704,2025-05-13 23:52,92,65+,M,Injury,5,Walk-in,101
+V00705,2025-05-14 09:22,44,35-49,F,Injury,4,Walk-in,104
+V00706,2025-05-14 17:22,10,0-17,M,Rash,4,Walk-in,66
+V00707,2025-05-14 19:20,52,50-64,F,Abdominal pain,3,Walk-in,37
+V00708,2025-05-15 00:01,30,18-34,F,Nausea/vomiting,4,Walk-in,59
+V00709,2025-05-15 02:13,60,50-64,M,Rash,4,Walk-in,62
+V00710,2025-05-15 03:31,5,0-17,M,Fever,3,Ambulance,14
+V00711,2025-05-15 04:41,32,18-34,F,Rash,3,Walk-in,25
+V00712,2025-05-15 05:33,27,18-34,F,Abdominal pain,4,Walk-in,55
+V00713,2025-05-15 07:58,20,18-34,M,Injury,4,Walk-in,46
+V00714,2025-05-15 09:38,15,0-17,M,Headache,4,Walk-in,64
+V00715,2025-05-15 15:03,64,50-64,F,Chest pain,3,Walk-in,51
+V00716,2025-05-15 18:36,11,0-17,M,Abdominal pain,3,Walk-in,41
+V00717,2025-05-15 18:56,12,0-17,M,Rash,4,Ambulance,85
+V00718,2025-05-15 20:04,68,65+,F,Chest pain,3,Ambulance,44
+V00719,2025-05-15 20:14,10,0-17,M,Abdominal pain,3,Walk-in,25
+V00720,2025-05-15 22:25,21,18-34,F,Injury,5,Walk-in,77
+V00721,2025-05-16 01:18,76,65+,F,Nausea/vomiting,3,Walk-in,67
+V00722,2025-05-16 03:50,28,18-34,M,Injury,3,Walk-in,26
+V00723,2025-05-16 05:26,86,65+,F,Chest pain,2,Walk-in,20
+V00724,2025-05-16 13:53,92,65+,F,Nausea/vomiting,3,Walk-in,113
+V00725,2025-05-16 18:26,81,65+,F,Chest pain,2,Walk-in,16
+V00726,2025-05-16 23:41,80,65+,F,Chest pain,2,Walk-in,12
+V00727,2025-05-17 05:15,56,50-64,M,Injury,3,Walk-in,34
+V00728,2025-05-17 06:13,66,65+,M,Abdominal pain,3,Walk-in,100
+V00729,2025-05-17 08:38,92,65+,F,Laceration,4,Walk-in,45
+V00730,2025-05-17 11:15,22,18-34,M,Back pain,4,Walk-in,85
+V00731,2025-05-17 11:20,18,18-34,M,Abdominal pain,1,Walk-in,5
+V00732,2025-05-17 13:06,42,35-49,F,Chest pain,3,Walk-in,37
+V00733,2025-05-18 03:43,16,0-17,M,Abdominal pain,3,Walk-in,12
+V00734,2025-05-18 07:50,33,18-34,F,Shortness of breath,2,Walk-in,20
+V00735,2025-05-18 13:21,53,50-64,F,Back pain,2,Ambulance,81
+V00736,2025-05-18 15:43,41,35-49,M,Fever,2,Walk-in,32
+V00737,2025-05-18 19:44,32,18-34,M,Chest pain,2,Walk-in,45
+V00738,2025-05-19 21:50,40,35-49,M,Injury,4,Ambulance,51
+V00739,2025-05-20 00:35,0,0-17,F,Abdominal pain,3,Walk-in,53
+V00740,2025-05-20 01:32,33,18-34,M,Headache,4,Walk-in,24
+V00741,2025-05-20 07:31,2,0-17,F,Laceration,3,Walk-in,17
+V00742,2025-05-20 07:39,94,65+,M,Chest pain,4,Ambulance,47
+V00743,2025-05-20 08:00,26,18-34,F,Injury,5,Walk-in,35
+V00744,2025-05-20 08:46,46,35-49,M,Headache,3,Walk-in,39
+V00745,2025-05-20 12:16,81,65+,M,Abdominal pain,4,Walk-in,36
+V00746,2025-05-20 15:42,57,50-64,M,Nausea/vomiting,4,Ambulance,149
+V00747,2025-05-20 19:34,45,35-49,F,Abdominal pain,3,Walk-in,133
+V00748,2025-05-20 22:54,56,50-64,M,Fever,2,Ambulance,13
+V00749,2025-05-20 23:32,36,35-49,F,Back pain,4,Walk-in,26
+V00750,2025-05-21 01:40,33,18-34,M,Nausea/vomiting,3,Ambulance,38
+V00751,2025-05-21 05:15,47,35-49,M,Chest pain,3,Walk-in,14
+V00752,2025-05-21 17:34,93,65+,F,Chest pain,3,Walk-in,42
+V00753,2025-05-21 18:21,37,35-49,M,Injury,3,Walk-in,116
+V00754,2025-05-22 04:12,39,35-49,F,Injury,3,Walk-in,44
+V00755,2025-05-22 07:30,19,18-34,F,Fever,4,Ambulance,54
+V00756,2025-05-22 10:29,30,18-34,M,Nausea/vomiting,5,Ambulance,49
+V00757,2025-05-22 14:17,66,65+,F,Nausea/vomiting,4,Walk-in,59
+V00758,2025-05-22 22:08,5,0-17,M,Back pain,3,Walk-in,34
+V00759,2025-05-23 05:49,93,65+,F,Shortness of breath,3,Walk-in,30
+V00760,2025-05-23 11:23,80,65+,M,Shortness of breath,1,Walk-in,11
+V00761,2025-05-23 12:59,44,35-49,M,Nausea/vomiting,4,Walk-in,86
+V00762,2025-05-23 17:19,44,35-49,F,Back pain,4,Walk-in,82
+V00763,2025-05-24 02:54,92,65+,M,Shortness of breath,2,Walk-in,28
+V00764,2025-05-24 06:22,21,18-34,F,Chest pain,2,Walk-in,6
+V00765,2025-05-24 07:06,80,65+,F,Fever,2,Walk-in,17
+V00766,2025-05-24 13:08,76,65+,M,Fever,3,Walk-in,36
+V00767,2025-05-24 19:39,62,50-64,M,Nausea/vomiting,4,Walk-in,44
+V00768,2025-05-24 22:18,58,50-64,F,Injury,2,Ambulance,8
+V00769,2025-05-25 05:13,75,65+,M,Back pain,5,Walk-in,83
+V00770,2025-05-25 07:03,22,18-34,F,Injury,3,Walk-in,31
+V00771,2025-05-25 07:10,44,35-49,F,Rash,4,Ambulance,65
+V00772,2025-05-25 12:52,22,18-34,M,Abdominal pain,4,Walk-in,82
+V00773,2025-05-26 01:00,19,18-34,F,Headache,3,Walk-in,52
+V00774,2025-05-26 05:46,45,35-49,F,Nausea/vomiting,3,Walk-in,72
+V00775,2025-05-26 08:05,23,18-34,M,Chest pain,3,Walk-in,47
+V00776,2025-05-26 15:40,29,18-34,F,Shortness of breath,4,Walk-in,45
+V00777,2025-05-27 00:41,36,35-49,M,Injury,4,Walk-in,96
+V00778,2025-05-27 01:57,15,0-17,M,Back pain,5,Walk-in,40
+V00779,2025-05-27 18:23,23,18-34,M,Headache,5,Ambulance,71
+V00780,2025-05-27 20:11,12,0-17,F,Rash,5,Ambulance,117
+V00781,2025-05-27 21:12,17,0-17,M,Headache,3,Walk-in,26
+V00782,2025-05-28 00:31,50,50-64,F,Headache,4,Ambulance,91
+V00783,2025-05-28 03:01,20,18-34,F,Fever,3,Walk-in,29
+V00784,2025-05-28 07:46,79,65+,F,Shortness of breath,3,Walk-in,18
+V00785,2025-05-28 09:24,70,65+,M,Back pain,4,Ambulance,73
+V00786,2025-05-28 09:44,41,35-49,M,Fever,2,Walk-in,30
+V00787,2025-05-28 13:16,5,0-17,F,Laceration,5,Ambulance,102
+V00788,2025-05-28 17:47,25,18-34,M,Shortness of breath,2,Walk-in,15
+V00789,2025-05-28 21:23,84,65+,M,Rash,4,Walk-in,117
+V00790,2025-05-28 22:09,9,0-17,M,Laceration,4,Walk-in,48
+V00791,2025-05-29 03:06,30,18-34,M,Headache,4,Walk-in,29
+V00792,2025-05-29 03:58,56,50-64,F,Injury,3,Walk-in,18
+V00793,2025-05-29 11:51,20,18-34,M,Abdominal pain,3,Walk-in,36
+V00794,2025-05-29 12:39,22,18-34,M,Abdominal pain,3,Walk-in,67
+V00795,2025-05-29 12:52,52,50-64,F,Injury,4,Ambulance,123
+V00796,2025-05-30 11:05,27,18-34,M,Shortness of breath,3,Ambulance,20
+V00797,2025-05-30 15:11,51,50-64,M,Back pain,4,Walk-in,50
+V00798,2025-05-30 16:26,64,50-64,M,Headache,3,Walk-in,32
+V00799,2025-05-30 22:29,37,35-49,F,Abdominal pain,2,Walk-in,19
+V00800,2025-05-31 01:02,89,65+,M,Back pain,5,Ambulance,29
+V00801,2025-05-31 01:33,54,50-64,M,Abdominal pain,3,Ambulance,29
+V00802,2025-05-31 01:58,36,35-49,F,Injury,3,Ambulance,33
+V00803,2025-05-31 11:38,62,50-64,M,Chest pain,4,Ambulance,80
+V00804,2025-05-31 18:21,25,18-34,F,Shortness of breath,2,Walk-in,13
+V00805,2025-05-31 19:11,2,0-17,M,Fever,4,Ambulance,61
+V00806,2025-06-01 02:39,75,65+,F,Rash,4,Walk-in,35
+V00807,2025-06-01 02:55,48,35-49,M,Nausea/vomiting,3,Ambulance,29
+V00808,2025-06-01 03:52,29,18-34,F,Injury,4,Walk-in,100
+V00809,2025-06-01 05:44,76,65+,F,Laceration,4,Ambulance,35
+V00810,2025-06-01 07:29,0,0-17,M,Injury,3,Walk-in,13
+V00811,2025-06-01 07:31,37,35-49,M,Injury,2,Walk-in,28
+V00812,2025-06-01 13:40,9,0-17,M,Abdominal pain,3,Walk-in,27
+V00813,2025-06-01 22:18,53,50-64,M,Laceration,4,Ambulance,39
+V00814,2025-06-02 10:15,57,50-64,M,Laceration,5,Walk-in,21
+V00815,2025-06-02 12:07,82,65+,F,Headache,2,Walk-in,21
+V00816,2025-06-02 12:49,38,35-49,F,Headache,3,Walk-in,17
+V00817,2025-06-02 13:29,29,18-34,F,Rash,4,Walk-in,48
+V00818,2025-06-02 15:42,21,18-34,F,Headache,4,Walk-in,147
+V00819,2025-06-03 00:40,20,18-34,M,Chest pain,1,Walk-in,3
+V00820,2025-06-03 11:38,31,18-34,M,Shortness of breath,2,Walk-in,21
+V00821,2025-06-03 19:54,22,18-34,F,Abdominal pain,3,Ambulance,81
+V00822,2025-06-03 20:09,82,65+,F,Chest pain,2,Walk-in,82
+V00823,2025-06-03 20:18,74,65+,M,Nausea/vomiting,4,Walk-in,49
+V00824,2025-06-03 23:52,59,50-64,F,Fever,4,Walk-in,46
+V00825,2025-06-04 02:16,87,65+,M,Chest pain,2,Walk-in,44
+V00826,2025-06-04 03:52,60,50-64,F,Abdominal pain,2,Walk-in,28
+V00827,2025-06-04 15:27,28,18-34,F,Chest pain,3,Ambulance,46
+V00828,2025-06-04 16:41,41,35-49,F,Shortness of breath,4,Walk-in,60
+V00829,2025-06-05 01:44,27,18-34,F,Back pain,4,Walk-in,26
+V00830,2025-06-05 03:37,2,0-17,M,Laceration,4,Walk-in,38
+V00831,2025-06-05 04:50,58,50-64,M,Injury,4,Walk-in,37
+V00832,2025-06-05 05:45,49,35-49,F,Chest pain,3,Walk-in,22
+V00833,2025-06-05 12:18,23,18-34,F,Chest pain,2,Walk-in,28
+V00834,2025-06-05 12:55,29,18-34,F,Shortness of breath,3,Walk-in,46
+V00835,2025-06-06 00:36,14,0-17,F,Shortness of breath,3,Walk-in,13
+V00836,2025-06-06 06:55,65,65+,F,Injury,3,Ambulance,58
+V00837,2025-06-06 08:57,25,18-34,F,Chest pain,2,Walk-in,28
+V00838,2025-06-06 12:26,40,35-49,F,Nausea/vomiting,3,Walk-in,75
+V00839,2025-06-06 16:02,36,35-49,F,Back pain,4,Walk-in,51
+V00840,2025-06-07 12:42,29,18-34,M,Headache,4,Ambulance,85
+V00841,2025-06-07 13:58,5,0-17,M,Fever,2,Walk-in,15
+V00842,2025-06-07 14:18,24,18-34,F,Abdominal pain,3,Walk-in,40
+V00843,2025-06-07 20:45,55,50-64,F,Shortness of breath,4,Walk-in,134
+V00844,2025-06-07 21:11,20,18-34,M,Chest pain,4,Walk-in,70
+V00845,2025-06-07 21:16,44,35-49,F,Injury,4,Walk-in,66
+V00846,2025-06-08 02:32,75,65+,F,Chest pain,3,Walk-in,56
+V00847,2025-06-08 05:35,46,35-49,M,Fever,3,Walk-in,34
+V00848,2025-06-08 05:45,6,0-17,M,Chest pain,3,Walk-in,42
+V00849,2025-06-08 11:58,81,65+,F,Fever,3,Walk-in,109
+V00850,2025-06-08 20:10,10,0-17,M,Chest pain,3,Ambulance,36
+V00851,2025-06-09 00:41,65,65+,F,Rash,4,Ambulance,106
+V00852,2025-06-09 09:11,18,18-34,M,Shortness of breath,4,Walk-in,24
+V00853,2025-06-09 10:22,21,18-34,M,Laceration,4,Ambulance,57
+V00854,2025-06-09 10:37,29,18-34,F,Injury,2,Walk-in,28
+V00855,2025-06-09 19:17,10,0-17,F,Shortness of breath,3,Walk-in,29
+V00856,2025-06-09 20:49,6,0-17,M,Injury,3,Walk-in,24
+V00857,2025-06-10 01:41,62,50-64,F,Back pain,5,Walk-in,29
+V00858,2025-06-10 02:31,67,65+,M,Laceration,4,Walk-in,69
+V00859,2025-06-10 08:52,22,18-34,F,Rash,5,Ambulance,98
+V00860,2025-06-10 09:00,16,0-17,M,Chest pain,1,Walk-in,3
+V00861,2025-06-10 20:16,22,18-34,M,Injury,3,Walk-in,39
+V00862,2025-06-10 20:25,21,18-34,M,Injury,5,Walk-in,72
+V00863,2025-06-11 03:32,61,50-64,M,Nausea/vomiting,4,Walk-in,41
+V00864,2025-06-11 04:57,38,35-49,M,Injury,2,Walk-in,15
+V00865,2025-06-11 14:27,46,35-49,F,Shortness of breath,3,Walk-in,58
+V00866,2025-06-11 19:12,9,0-17,F,Fever,2,Ambulance,23
+V00867,2025-06-11 20:39,55,50-64,M,Fever,2,Walk-in,21
+V00868,2025-06-11 21:46,60,50-64,F,Headache,3,Walk-in,51
+V00869,2025-06-12 00:43,30,18-34,M,Chest pain,3,Walk-in,22
+V00870,2025-06-12 02:45,10,0-17,F,Chest pain,2,Walk-in,13
+V00871,2025-06-12 04:54,3,0-17,M,Shortness of breath,2,Walk-in,12
+V00872,2025-06-12 06:46,12,0-17,F,Chest pain,3,Walk-in,21
+V00873,2025-06-13 03:38,18,18-34,F,Shortness of breath,2,Walk-in,11
+V00874,2025-06-13 16:55,8,0-17,M,Fever,4,Ambulance,51
+V00875,2025-06-14 00:31,26,18-34,M,Nausea/vomiting,3,Walk-in,58
+V00876,2025-06-14 03:42,57,50-64,M,Nausea/vomiting,3,Walk-in,17
+V00877,2025-06-14 10:35,43,35-49,F,Abdominal pain,3,Walk-in,16
+V00878,2025-06-14 11:59,22,18-34,F,Chest pain,3,Walk-in,68
+V00879,2025-06-14 14:04,27,18-34,M,Chest pain,1,Walk-in,5
+V00880,2025-06-15 01:42,45,35-49,F,Fever,2,Walk-in,13
+V00881,2025-06-15 02:41,9,0-17,M,Fever,5,Ambulance,29
+V00882,2025-06-15 03:26,78,65+,F,Fever,4,Walk-in,34
+V00883,2025-06-15 06:44,24,18-34,F,Abdominal pain,4,Walk-in,68
+V00884,2025-06-15 10:59,0,0-17,M,Laceration,4,Walk-in,41
+V00885,2025-06-15 12:33,28,18-34,M,Injury,3,Walk-in,75
+V00886,2025-06-15 19:28,58,50-64,M,Chest pain,3,Walk-in,52
+V00887,2025-06-16 05:27,53,50-64,F,Shortness of breath,2,Walk-in,11
+V00888,2025-06-16 08:43,41,35-49,F,Nausea/vomiting,3,Walk-in,27
+V00889,2025-06-16 10:04,0,0-17,M,Injury,3,Walk-in,41
+V00890,2025-06-16 10:32,50,50-64,M,Injury,3,Walk-in,29
+V00891,2025-06-16 14:04,89,65+,F,Abdominal pain,4,Walk-in,82
+V00892,2025-06-16 19:55,34,18-34,F,Abdominal pain,3,Walk-in,35
+V00893,2025-06-16 20:00,88,65+,F,Injury,3,Walk-in,56
+V00894,2025-06-16 20:42,46,35-49,M,Laceration,3,Walk-in,63
+V00895,2025-06-16 21:15,30,18-34,M,Chest pain,3,Ambulance,57
+V00896,2025-06-17 09:06,72,65+,F,Chest pain,4,Walk-in,46
+V00897,2025-06-17 10:44,10,0-17,M,Chest pain,3,Walk-in,88
+V00898,2025-06-17 12:54,49,35-49,F,Injury,4,Walk-in,76
+V00899,2025-06-17 13:06,20,18-34,F,Abdominal pain,2,Walk-in,4
+V00900,2025-06-17 18:22,5,0-17,F,Laceration,4,Walk-in,70
+V00901,2025-06-18 01:31,46,35-49,F,Chest pain,2,Walk-in,10
+V00902,2025-06-18 03:34,88,65+,F,Injury,3,Walk-in,41
+V00903,2025-06-18 15:50,47,35-49,F,Back pain,4,Walk-in,80
+V00904,2025-06-18 19:08,22,18-34,F,Fever,3,Walk-in,47
+V00905,2025-06-18 20:16,21,18-34,M,Shortness of breath,3,Walk-in,43
+V00906,2025-06-20 01:30,30,18-34,F,Nausea/vomiting,3,Ambulance,33
+V00907,2025-06-20 07:24,0,0-17,M,Abdominal pain,4,Walk-in,26
+V00908,2025-06-20 14:21,46,35-49,M,Headache,5,Walk-in,39
+V00909,2025-06-20 14:34,69,65+,M,Headache,3,Walk-in,46
+V00910,2025-06-21 01:27,29,18-34,F,Back pain,3,Ambulance,18
+V00911,2025-06-21 02:51,32,18-34,F,Abdominal pain,3,Ambulance,26
+V00912,2025-06-21 05:27,59,50-64,M,Chest pain,2,Walk-in,27
+V00913,2025-06-21 09:13,92,65+,F,Injury,4,Walk-in,31
+V00914,2025-06-21 10:12,46,35-49,F,Injury,4,Walk-in,22
+V00915,2025-06-22 10:49,83,65+,F,Laceration,5,Walk-in,32
+V00916,2025-06-22 15:11,36,35-49,F,Laceration,5,Walk-in,96
+V00917,2025-06-22 19:37,64,50-64,M,Nausea/vomiting,4,Walk-in,164
+V00918,2025-06-22 23:56,21,18-34,F,Abdominal pain,3,Walk-in,22
+V00919,2025-06-23 00:42,38,35-49,F,Headache,3,Walk-in,18
+V00920,2025-06-23 02:00,36,35-49,F,Abdominal pain,2,Walk-in,11
+V00921,2025-06-23 15:12,29,18-34,F,Back pain,5,Walk-in,98
+V00922,2025-06-23 18:53,88,65+,F,Injury,3,Walk-in,22
+V00923,2025-06-24 06:34,18,18-34,F,Laceration,4,Walk-in,20
+V00924,2025-06-24 14:42,54,50-64,F,Rash,3,Walk-in,130
+V00925,2025-06-24 19:34,27,18-34,M,Headache,4,Walk-in,59
+V00926,2025-06-24 20:40,63,50-64,F,Abdominal pain,3,Ambulance,26
+V00927,2025-06-25 01:08,27,18-34,F,Nausea/vomiting,4,Walk-in,32
+V00928,2025-06-25 05:31,79,65+,M,Abdominal pain,3,Walk-in,30
+V00929,2025-06-25 06:33,93,65+,M,Injury,2,Walk-in,16
+V00930,2025-06-25 06:41,43,35-49,F,Injury,4,Walk-in,69
+V00931,2025-06-25 08:27,39,35-49,M,Rash,5,Walk-in,86
+V00932,2025-06-25 09:04,22,18-34,M,Injury,4,Walk-in,11
+V00933,2025-06-25 10:04,12,0-17,M,Abdominal pain,3,Ambulance,31
+V00934,2025-06-25 11:22,14,0-17,F,Chest pain,4,Walk-in,52
+V00935,2025-06-25 22:49,40,35-49,M,Injury,2,Ambulance,13
+V00936,2025-06-26 06:44,87,65+,F,Rash,5,Ambulance,95
+V00937,2025-06-26 10:01,13,0-17,F,Abdominal pain,4,Ambulance,14
+V00938,2025-06-26 11:33,47,35-49,M,Fever,4,Walk-in,40
+V00939,2025-06-26 15:48,2,0-17,F,Abdominal pain,3,Ambulance,17
+V00940,2025-06-26 18:16,46,35-49,M,Rash,4,Walk-in,89
+V00941,2025-06-26 19:38,47,35-49,F,Chest pain,3,Walk-in,99
+V00942,2025-06-26 19:42,57,50-64,F,Rash,3,Walk-in,40
+V00943,2025-06-26 21:00,74,65+,F,Chest pain,3,Ambulance,52
+V00944,2025-06-27 02:18,58,50-64,F,Laceration,5,Ambulance,78
+V00945,2025-06-27 15:27,40,35-49,F,Abdominal pain,2,Walk-in,27
+V00946,2025-06-27 18:00,21,18-34,F,Headache,4,Walk-in,32
+V00947,2025-06-27 18:02,31,18-34,F,Injury,3,Walk-in,37
+V00948,2025-06-27 23:09,30,18-34,M,Headache,3,Ambulance,24
+V00949,2025-06-28 02:41,7,0-17,M,Back pain,3,Walk-in,17
+V00950,2025-06-28 03:40,89,65+,M,Shortness of breath,3,Walk-in,13
+V00951,2025-06-28 20:20,31,18-34,F,Back pain,5,Ambulance,72
+V00952,2025-06-28 21:23,60,50-64,F,Nausea/vomiting,4,Walk-in,63
+V00953,2025-06-28 23:24,92,65+,F,Chest pain,2,Walk-in,10
+V00954,2025-06-29 02:19,46,35-49,F,Injury,4,Walk-in,58
+V00955,2025-06-29 02:22,93,65+,M,Injury,4,Walk-in,35
+V00956,2025-06-29 15:37,91,65+,M,Back pain,3,Walk-in,49
+V00957,2025-06-29 17:34,58,50-64,F,Abdominal pain,2,Walk-in,55
+V00958,2025-06-29 18:16,5,0-17,F,Abdominal pain,3,Walk-in,36
+V00959,2025-06-30 03:18,34,18-34,F,Rash,3,Walk-in,31
+V00960,2025-06-30 11:56,61,50-64,M,Nausea/vomiting,3,Walk-in,75
+V00961,2025-06-30 12:34,2,0-17,F,Abdominal pain,3,Ambulance,51
+V00962,2025-06-30 21:58,39,35-49,F,Fever,4,Ambulance,78
+V00963,2025-06-30 22:37,84,65+,M,Abdominal pain,2,Walk-in,18
+V00964,2025-07-01 00:49,15,0-17,F,Abdominal pain,3,Ambulance,42
+V00965,2025-07-01 03:27,22,18-34,F,Abdominal pain,2,Walk-in,24
+V00966,2025-07-01 07:07,55,50-64,F,Abdominal pain,3,Ambulance,24
+V00967,2025-07-01 17:05,0,0-17,M,Back pain,4,Walk-in,21
+V00968,2025-07-01 17:17,25,18-34,M,Headache,4,Walk-in,114
+V00969,2025-07-01 21:39,29,18-34,M,Abdominal pain,4,Walk-in,75
+V00970,2025-07-01 22:08,26,18-34,F,Fever,3,Walk-in,60
+V00971,2025-07-02 00:37,16,0-17,M,Fever,4,Walk-in,38
+V00972,2025-07-02 04:58,90,65+,M,Fever,3,Walk-in,42
+V00973,2025-07-02 11:22,29,18-34,M,Chest pain,2,Walk-in,22
+V00974,2025-07-02 13:47,14,0-17,F,Back pain,3,Walk-in,53
+V00975,2025-07-02 16:13,79,65+,M,Injury,4,Walk-in,74
+V00976,2025-07-02 19:19,12,0-17,F,Shortness of breath,2,Walk-in,54
+V00977,2025-07-02 22:38,19,18-34,F,Fever,4,Walk-in,45
+V00978,2025-07-03 10:49,22,18-34,M,Nausea/vomiting,3,Ambulance,56
+V00979,2025-07-03 12:28,56,50-64,M,Abdominal pain,4,Walk-in,65
+V00980,2025-07-03 12:28,58,50-64,F,Injury,3,Walk-in,23
+V00981,2025-07-03 13:11,16,0-17,F,Fever,2,Walk-in,33
+V00982,2025-07-03 15:01,89,65+,M,Injury,2,Walk-in,46
+V00983,2025-07-03 20:11,40,35-49,F,Abdominal pain,2,Walk-in,22
+V00984,2025-07-04 00:53,50,50-64,M,Abdominal pain,2,Walk-in,16
+V00985,2025-07-04 03:15,26,18-34,F,Nausea/vomiting,2,Ambulance,10
+V00986,2025-07-04 04:18,28,18-34,F,Fever,3,Walk-in,53
+V00987,2025-07-04 04:35,18,18-34,F,Back pain,4,Walk-in,75
+V00988,2025-07-04 08:06,47,35-49,F,Abdominal pain,3,Walk-in,36
+V00989,2025-07-04 08:30,90,65+,M,Laceration,4,Walk-in,38
+V00990,2025-07-04 10:33,63,50-64,M,Injury,3,Walk-in,45
+V00991,2025-07-04 10:34,1,0-17,F,Chest pain,3,Walk-in,12
+V00992,2025-07-04 15:19,46,35-49,M,Headache,2,Walk-in,34
+V00993,2025-07-04 19:00,71,65+,M,Back pain,4,Walk-in,70
+V00994,2025-07-04 23:34,10,0-17,F,Injury,3,Ambulance,30
+V00995,2025-07-05 00:14,61,50-64,M,Laceration,4,Walk-in,44
+V00996,2025-07-05 07:32,74,65+,F,Rash,5,Walk-in,92
+V00997,2025-07-05 10:41,22,18-34,M,Chest pain,2,Ambulance,37
+V00998,2025-07-05 14:06,68,65+,M,Shortness of breath,2,Ambulance,30
+V00999,2025-07-05 15:39,46,35-49,M,Fever,4,Walk-in,43
+V01000,2025-07-05 17:00,27,18-34,F,Chest pain,2,Walk-in,26
+V01001,2025-07-05 23:29,41,35-49,M,Chest pain,4,Walk-in,32
+V01002,2025-07-06 05:10,49,35-49,M,Injury,5,Ambulance,65
+V01003,2025-07-06 09:59,49,35-49,M,Chest pain,2,Walk-in,19
+V01004,2025-07-06 12:52,59,50-64,M,Fever,3,Walk-in,46
+V01005,2025-07-06 13:39,0,0-17,M,Chest pain,1,Walk-in,4
+V01006,2025-07-06 20:39,34,18-34,M,Headache,3,Walk-in,49
+V01007,2025-07-06 21:07,0,0-17,M,Nausea/vomiting,4,Walk-in,43
+V01008,2025-07-06 21:34,41,35-49,M,Fever,3,Walk-in,41
+V01009,2025-07-07 07:39,36,35-49,F,Headache,4,Ambulance,21
+V01010,2025-07-07 21:00,43,35-49,F,Laceration,4,Walk-in,131
+V01011,2025-07-08 00:40,3,0-17,F,Back pain,3,Walk-in,38
+V01012,2025-07-08 03:48,16,0-17,F,Fever,3,Walk-in,49
+V01013,2025-07-08 06:33,24,18-34,M,Rash,4,Ambulance,52
+V01014,2025-07-08 13:12,61,50-64,F,Chest pain,3,Walk-in,53
+V01015,2025-07-08 23:58,50,50-64,F,Nausea/vomiting,4,Walk-in,44
+V01016,2025-07-09 07:03,1,0-17,F,Chest pain,3,Walk-in,47
+V01017,2025-07-09 09:38,44,35-49,F,Nausea/vomiting,4,Ambulance,100
+V01018,2025-07-09 16:25,64,50-64,M,Laceration,5,Walk-in,139
+V01019,2025-07-10 07:08,18,18-34,M,Shortness of breath,2,Walk-in,27
+V01020,2025-07-10 07:16,41,35-49,F,Fever,3,Ambulance,29
+V01021,2025-07-10 09:09,63,50-64,F,Injury,3,Walk-in,38
+V01022,2025-07-10 14:18,89,65+,F,Shortness of breath,3,Walk-in,64
+V01023,2025-07-11 03:32,3,0-17,F,Rash,4,Walk-in,88
+V01024,2025-07-11 06:27,47,35-49,F,Chest pain,1,Walk-in,4
+V01025,2025-07-11 09:17,31,18-34,F,Fever,3,Walk-in,16
+V01026,2025-07-11 11:05,34,18-34,M,Abdominal pain,3,Ambulance,49
+V01027,2025-07-11 11:29,28,18-34,F,Chest pain,2,Walk-in,19
+V01028,2025-07-11 18:27,43,35-49,M,Headache,4,Walk-in,47
+V01029,2025-07-11 18:42,34,18-34,F,Abdominal pain,3,Walk-in,31
+V01030,2025-07-11 19:28,17,0-17,F,Laceration,4,Walk-in,86
+V01031,2025-07-12 04:07,20,18-34,M,Laceration,4,Walk-in,40
+V01032,2025-07-12 08:40,57,50-64,F,Chest pain,3,Ambulance,49
+V01033,2025-07-12 10:56,71,65+,M,Nausea/vomiting,4,Walk-in,74
+V01034,2025-07-12 13:55,70,65+,F,Back pain,3,Ambulance,29
+V01035,2025-07-12 20:11,32,18-34,F,Back pain,3,Walk-in,47
+V01036,2025-07-12 21:02,16,0-17,F,Nausea/vomiting,3,Ambulance,86
+V01037,2025-07-12 22:45,63,50-64,M,Injury,5,Walk-in,34
+V01038,2025-07-13 14:31,72,65+,M,Abdominal pain,3,Ambulance,74
+V01039,2025-07-13 16:11,4,0-17,M,Nausea/vomiting,3,Walk-in,37
+V01040,2025-07-14 01:34,44,35-49,F,Injury,3,Walk-in,20
+V01041,2025-07-14 03:49,40,35-49,M,Fever,4,Ambulance,57
+V01042,2025-07-14 04:30,52,50-64,M,Back pain,4,Walk-in,49
+V01043,2025-07-14 09:21,34,18-34,F,Abdominal pain,3,Walk-in,27
+V01044,2025-07-14 18:01,31,18-34,M,Abdominal pain,3,Walk-in,48
+V01045,2025-07-14 21:00,61,50-64,M,Chest pain,4,Walk-in,98
+V01046,2025-07-15 01:29,59,50-64,F,Fever,3,Walk-in,24
+V01047,2025-07-15 02:51,86,65+,F,Injury,3,Walk-in,52
+V01048,2025-07-15 08:31,2,0-17,M,Abdominal pain,3,Walk-in,25
+V01049,2025-07-15 10:39,76,65+,M,Chest pain,2,Walk-in,25
+V01050,2025-07-15 16:57,16,0-17,F,Headache,4,Walk-in,86
+V01051,2025-07-15 17:35,83,65+,M,Chest pain,1,Walk-in,10
+V01052,2025-07-15 23:06,45,35-49,F,Abdominal pain,4,Ambulance,36
+V01053,2025-07-16 03:38,1,0-17,M,Fever,3,Walk-in,38
+V01054,2025-07-16 04:22,75,65+,M,Shortness of breath,3,Ambulance,26
+V01055,2025-07-16 05:36,43,35-49,F,Chest pain,2,Ambulance,12
+V01056,2025-07-16 05:55,30,18-34,F,Back pain,4,Walk-in,69
+V01057,2025-07-16 11:38,21,18-34,M,Headache,4,Walk-in,130
+V01058,2025-07-16 18:08,22,18-34,F,Headache,3,Ambulance,53
+V01059,2025-07-16 19:23,48,35-49,F,Headache,4,Walk-in,35
+V01060,2025-07-17 00:27,42,35-49,F,Injury,5,Ambulance,131
+V01061,2025-07-17 02:10,63,50-64,F,Back pain,5,Walk-in,67
+V01062,2025-07-17 03:59,53,50-64,F,Chest pain,3,Walk-in,29
+V01063,2025-07-17 05:50,62,50-64,M,Nausea/vomiting,3,Walk-in,44
+V01064,2025-07-17 13:29,5,0-17,M,Shortness of breath,2,Ambulance,16
+V01065,2025-07-17 15:40,39,35-49,F,Injury,3,Walk-in,45
+V01066,2025-07-17 16:52,23,18-34,F,Injury,2,Walk-in,19
+V01067,2025-07-18 06:10,94,65+,M,Shortness of breath,2,Walk-in,37
+V01068,2025-07-18 06:15,89,65+,F,Back pain,5,Walk-in,59
+V01069,2025-07-18 10:58,29,18-34,M,Injury,4,Ambulance,57
+V01070,2025-07-19 10:38,0,0-17,M,Abdominal pain,2,Walk-in,13
+V01071,2025-07-19 12:50,14,0-17,F,Chest pain,2,Walk-in,25
+V01072,2025-07-20 00:45,28,18-34,M,Headache,3,Walk-in,37
+V01073,2025-07-20 01:13,20,18-34,F,Rash,4,Walk-in,59
+V01074,2025-07-20 03:53,81,65+,M,Nausea/vomiting,3,Walk-in,32
+V01075,2025-07-20 05:58,30,18-34,F,Abdominal pain,3,Ambulance,20
+V01076,2025-07-20 06:09,18,18-34,F,Abdominal pain,3,Walk-in,25
+V01077,2025-07-20 13:47,52,50-64,M,Chest pain,2,Ambulance,17
+V01078,2025-07-20 17:47,31,18-34,M,Laceration,4,Walk-in,62
+V01079,2025-07-21 03:31,38,35-49,M,Laceration,4,Walk-in,47
+V01080,2025-07-21 04:44,38,35-49,M,Back pain,3,Ambulance,46
+V01081,2025-07-21 14:29,24,18-34,M,Chest pain,2,Walk-in,10
+V01082,2025-07-21 20:14,40,35-49,M,Nausea/vomiting,3,Walk-in,30
+V01083,2025-07-21 21:31,0,0-17,M,Laceration,4,Walk-in,31
+V01084,2025-07-22 00:13,28,18-34,M,Laceration,4,Walk-in,92
+V01085,2025-07-22 04:31,34,18-34,M,Headache,4,Walk-in,69
+V01086,2025-07-22 05:15,19,18-34,F,Back pain,3,Walk-in,32
+V01087,2025-07-22 08:50,21,18-34,F,Shortness of breath,3,Walk-in,20
+V01088,2025-07-22 13:22,87,65+,M,Abdominal pain,4,Ambulance,78
+V01089,2025-07-22 19:43,29,18-34,M,Headache,4,Walk-in,43
+V01090,2025-07-22 21:58,6,0-17,M,Chest pain,2,Ambulance,15
+V01091,2025-07-23 00:13,41,35-49,M,Fever,2,Walk-in,13
+V01092,2025-07-23 05:26,4,0-17,F,Nausea/vomiting,4,Walk-in,66
+V01093,2025-07-23 08:23,62,50-64,F,Injury,4,Walk-in,66
+V01094,2025-07-23 08:53,19,18-34,F,Injury,3,Walk-in,57
+V01095,2025-07-23 15:14,69,65+,M,Back pain,4,Walk-in,117
+V01096,2025-07-23 17:06,66,65+,M,Back pain,3,Walk-in,35
+V01097,2025-07-23 19:05,70,65+,F,Chest pain,2,Walk-in,40
+V01098,2025-07-24 05:24,72,65+,F,Injury,3,Walk-in,42
+V01099,2025-07-24 08:46,22,18-34,F,Rash,5,Walk-in,46
+V01100,2025-07-24 14:06,39,35-49,F,Abdominal pain,2,Walk-in,15
+V01101,2025-07-24 15:14,48,35-49,M,Chest pain,4,Ambulance,110
+V01102,2025-07-24 16:01,48,35-49,F,Back pain,4,Walk-in,88
+V01103,2025-07-24 16:40,93,65+,M,Abdominal pain,3,Walk-in,43
+V01104,2025-07-24 20:48,68,65+,F,Fever,5,Walk-in,119
+V01105,2025-07-24 23:20,61,50-64,F,Rash,4,Walk-in,61
+V01106,2025-07-24 23:45,27,18-34,F,Fever,3,Walk-in,30
+V01107,2025-07-25 04:15,33,18-34,M,Headache,4,Ambulance,19
+V01108,2025-07-25 06:19,5,0-17,F,Injury,3,Walk-in,21
+V01109,2025-07-25 16:40,55,50-64,F,Chest pain,2,Walk-in,28
+V01110,2025-07-25 20:49,18,18-34,F,Chest pain,2,Walk-in,27
+V01111,2025-07-25 23:03,92,65+,M,Injury,3,Ambulance,54
+V01112,2025-07-26 00:20,45,35-49,M,Injury,1,Walk-in,6
+V01113,2025-07-26 01:50,27,18-34,F,Abdominal pain,3,Walk-in,31
+V01114,2025-07-26 04:54,57,50-64,F,Fever,3,Walk-in,83
+V01115,2025-07-26 09:53,83,65+,F,Abdominal pain,3,Ambulance,45
+V01116,2025-07-26 18:06,0,0-17,F,Laceration,4,Walk-in,24
+V01117,2025-07-26 20:51,11,0-17,F,Rash,4,Walk-in,82
+V01118,2025-07-26 23:21,20,18-34,M,Chest pain,2,Ambulance,24
+V01119,2025-07-27 14:51,63,50-64,F,Abdominal pain,3,Ambulance,25
+V01120,2025-07-27 16:49,60,50-64,F,Injury,3,Walk-in,45
+V01121,2025-07-27 18:10,62,50-64,M,Chest pain,3,Walk-in,45
+V01122,2025-07-27 22:14,87,65+,M,Chest pain,3,Walk-in,43
+V01123,2025-07-28 09:27,72,65+,F,Shortness of breath,3,Walk-in,54
+V01124,2025-07-28 10:07,48,35-49,F,Headache,4,Walk-in,69
+V01125,2025-07-28 10:29,17,0-17,M,Laceration,4,Ambulance,35
+V01126,2025-07-28 12:40,15,0-17,F,Headache,4,Walk-in,98
+V01127,2025-07-28 13:49,33,18-34,F,Nausea/vomiting,3,Walk-in,38
+V01128,2025-07-28 15:21,20,18-34,M,Abdominal pain,4,Walk-in,49
+V01129,2025-07-28 17:30,52,50-64,M,Rash,3,Walk-in,58
+V01130,2025-07-28 18:40,9,0-17,F,Rash,3,Walk-in,52
+V01131,2025-07-28 21:21,18,18-34,F,Back pain,4,Walk-in,33
+V01132,2025-07-29 04:11,62,50-64,M,Nausea/vomiting,2,Walk-in,22
+V01133,2025-07-29 14:53,9,0-17,F,Shortness of breath,2,Walk-in,22
+V01134,2025-07-29 21:10,62,50-64,M,Abdominal pain,4,Ambulance,151
+V01135,2025-07-30 00:22,90,65+,M,Chest pain,3,Walk-in,36
+V01136,2025-07-30 01:19,23,18-34,F,Abdominal pain,3,Walk-in,37
+V01137,2025-07-30 07:14,90,65+,M,Abdominal pain,3,Walk-in,32
+V01138,2025-07-30 11:55,90,65+,F,Headache,5,Walk-in,92
+V01139,2025-07-30 12:10,89,65+,F,Chest pain,4,Walk-in,74
+V01140,2025-07-30 12:24,30,18-34,F,Laceration,4,Walk-in,66
+V01141,2025-07-30 16:22,53,50-64,F,Chest pain,2,Ambulance,19
+V01142,2025-07-30 20:46,29,18-34,F,Shortness of breath,2,Ambulance,42
+V01143,2025-07-30 22:13,24,18-34,M,Injury,3,Walk-in,50
+V01144,2025-07-31 01:09,62,50-64,F,Fever,3,Walk-in,39
+V01145,2025-07-31 03:00,28,18-34,F,Chest pain,2,Walk-in,12
+V01146,2025-07-31 07:58,81,65+,M,Back pain,4,Ambulance,48
+V01147,2025-07-31 08:36,46,35-49,M,Laceration,4,Ambulance,39
+V01148,2025-07-31 08:49,28,18-34,F,Injury,3,Walk-in,47
+V01149,2025-07-31 11:35,22,18-34,M,Rash,4,Walk-in,31
+V01150,2025-08-01 02:22,74,65+,M,Fever,2,Ambulance,28
+V01151,2025-08-01 03:01,32,18-34,F,Abdominal pain,4,Walk-in,62
+V01152,2025-08-01 05:59,13,0-17,F,Fever,3,Walk-in,19
+V01153,2025-08-01 15:23,19,18-34,M,Abdominal pain,3,Walk-in,42
+V01154,2025-08-01 16:12,46,35-49,M,Fever,4,Walk-in,116
+V01155,2025-08-01 19:35,30,18-34,F,Injury,4,Walk-in,96
+V01156,2025-08-01 21:10,61,50-64,M,Shortness of breath,2,Walk-in,24
+V01157,2025-08-01 23:34,65,65+,M,Nausea/vomiting,4,Walk-in,119
+V01158,2025-08-02 05:53,9,0-17,F,Chest pain,2,Walk-in,15
+V01159,2025-08-02 19:15,0,0-17,M,Shortness of breath,3,Ambulance,41
+V01160,2025-08-02 22:58,52,50-64,M,Injury,4,Walk-in,45
+V01161,2025-08-02 23:15,2,0-17,F,Chest pain,2,Walk-in,17
+V01162,2025-08-03 11:31,25,18-34,F,Rash,5,Walk-in,84
+V01163,2025-08-03 13:30,61,50-64,M,Headache,4,Walk-in,54
+V01164,2025-08-03 17:38,22,18-34,F,Injury,4,Walk-in,73
+V01165,2025-08-04 01:54,24,18-34,F,Chest pain,3,Walk-in,20
+V01166,2025-08-04 02:15,66,65+,M,Shortness of breath,2,Walk-in,14
+V01167,2025-08-04 09:05,55,50-64,M,Rash,4,Walk-in,30
+V01168,2025-08-04 16:27,66,65+,F,Headache,4,Walk-in,44
+V01169,2025-08-05 13:56,30,18-34,M,Injury,3,Walk-in,77
+V01170,2025-08-05 22:47,50,50-64,M,Fever,3,Walk-in,30
+V01171,2025-08-05 23:41,73,65+,F,Laceration,3,Ambulance,47
+V01172,2025-08-06 03:13,28,18-34,M,Shortness of breath,5,Walk-in,35
+V01173,2025-08-06 05:29,4,0-17,F,Shortness of breath,3,Walk-in,20
+V01174,2025-08-06 10:13,39,35-49,F,Fever,4,Walk-in,26
+V01175,2025-08-06 13:00,75,65+,M,Laceration,5,Ambulance,63
+V01176,2025-08-06 14:34,88,65+,F,Laceration,4,Ambulance,81
+V01177,2025-08-06 17:46,59,50-64,F,Chest pain,4,Walk-in,47
+V01178,2025-08-06 22:34,13,0-17,F,Headache,4,Walk-in,48
+V01179,2025-08-07 14:52,17,0-17,F,Nausea/vomiting,4,Walk-in,43
+V01180,2025-08-07 17:31,48,35-49,F,Back pain,3,Ambulance,46
+V01181,2025-08-07 17:36,89,65+,F,Chest pain,3,Walk-in,75
+V01182,2025-08-07 18:58,63,50-64,F,Fever,4,Walk-in,131
+V01183,2025-08-08 20:47,61,50-64,F,Chest pain,2,Ambulance,17
+V01184,2025-08-08 22:53,53,50-64,F,Rash,4,Walk-in,131
+V01185,2025-08-09 02:04,27,18-34,M,Fever,3,Walk-in,19
+V01186,2025-08-09 14:59,39,35-49,F,Abdominal pain,4,Walk-in,99
+V01187,2025-08-09 23:31,16,0-17,F,Shortness of breath,3,Walk-in,52
+V01188,2025-08-10 02:07,60,50-64,M,Shortness of breath,4,Ambulance,38
+V01189,2025-08-10 06:45,30,18-34,F,Injury,4,Walk-in,66
+V01190,2025-08-10 09:51,45,35-49,F,Abdominal pain,3,Ambulance,53
+V01191,2025-08-10 13:06,55,50-64,F,Injury,3,Walk-in,57
+V01192,2025-08-10 18:14,15,0-17,M,Abdominal pain,2,Walk-in,18
+V01193,2025-08-11 02:50,69,65+,M,Fever,3,Walk-in,52
+V01194,2025-08-11 11:23,58,50-64,F,Injury,2,Walk-in,27
+V01195,2025-08-11 11:25,72,65+,M,Fever,4,Ambulance,104
+V01196,2025-08-11 19:19,82,65+,F,Nausea/vomiting,2,Walk-in,16
+V01197,2025-08-11 22:58,17,0-17,F,Abdominal pain,2,Walk-in,17
+V01198,2025-08-12 00:50,64,50-64,M,Abdominal pain,3,Walk-in,30
+V01199,2025-08-12 02:32,17,0-17,F,Back pain,4,Walk-in,34
+V01200,2025-08-12 03:36,62,50-64,F,Headache,3,Walk-in,37
+V01201,2025-08-12 04:51,15,0-17,F,Fever,3,Ambulance,33
+V01202,2025-08-12 05:38,54,50-64,M,Chest pain,4,Walk-in,42
+V01203,2025-08-12 20:06,38,35-49,F,Chest pain,2,Walk-in,17
+V01204,2025-08-12 22:49,59,50-64,M,Headache,4,Walk-in,49
+V01205,2025-08-13 04:11,55,50-64,F,Injury,4,Walk-in,36
+V01206,2025-08-13 11:07,3,0-17,M,Nausea/vomiting,3,Walk-in,38
+V01207,2025-08-13 11:12,10,0-17,F,Injury,3,Walk-in,62
+V01208,2025-08-13 19:14,27,18-34,M,Back pain,4,Walk-in,59
+V01209,2025-08-13 21:00,27,18-34,M,Abdominal pain,4,Ambulance,91
+V01210,2025-08-14 05:44,32,18-34,F,Laceration,5,Walk-in,55
+V01211,2025-08-14 07:54,19,18-34,F,Fever,4,Walk-in,48
+V01212,2025-08-14 12:14,71,65+,F,Injury,4,Walk-in,73
+V01213,2025-08-14 21:19,48,35-49,M,Headache,3,Walk-in,50
+V01214,2025-08-14 23:26,39,35-49,F,Chest pain,4,Walk-in,54
+V01215,2025-08-15 00:01,40,35-49,F,Abdominal pain,3,Walk-in,39
+V01216,2025-08-15 01:31,74,65+,F,Fever,3,Walk-in,32
+V01217,2025-08-15 01:58,9,0-17,M,Rash,5,Walk-in,35
+V01218,2025-08-15 09:31,24,18-34,M,Rash,5,Walk-in,52
+V01219,2025-08-15 13:08,93,65+,M,Chest pain,2,Walk-in,34
+V01220,2025-08-15 17:37,16,0-17,M,Injury,3,Walk-in,23
+V01221,2025-08-15 21:06,62,50-64,F,Nausea/vomiting,2,Ambulance,26
+V01222,2025-08-15 21:19,48,35-49,F,Back pain,4,Walk-in,51
+V01223,2025-08-15 21:34,70,65+,F,Shortness of breath,3,Walk-in,11
+V01224,2025-08-15 22:37,25,18-34,F,Abdominal pain,3,Walk-in,23
+V01225,2025-08-16 03:50,56,50-64,F,Injury,3,Walk-in,34
+V01226,2025-08-16 05:29,25,18-34,F,Headache,4,Walk-in,44
+V01227,2025-08-16 17:39,36,35-49,F,Chest pain,4,Walk-in,103
+V01228,2025-08-16 19:57,81,65+,F,Injury,3,Walk-in,67
+V01229,2025-08-16 22:45,35,35-49,M,Injury,4,Walk-in,59
+V01230,2025-08-17 00:52,23,18-34,M,Injury,4,Ambulance,22
+V01231,2025-08-17 01:06,93,65+,M,Injury,3,Walk-in,31
+V01232,2025-08-17 18:24,20,18-34,F,Headache,4,Walk-in,31
+V01233,2025-08-17 23:54,59,50-64,F,Headache,4,Walk-in,59
+V01234,2025-08-18 02:50,28,18-34,M,Chest pain,3,Walk-in,19
+V01235,2025-08-18 03:20,57,50-64,F,Nausea/vomiting,4,Ambulance,47
+V01236,2025-08-18 07:26,80,65+,F,Chest pain,3,Walk-in,37
+V01237,2025-08-18 16:49,20,18-34,F,Injury,3,Ambulance,27
+V01238,2025-08-18 16:57,82,65+,M,Abdominal pain,3,Walk-in,66
+V01239,2025-08-18 18:56,33,18-34,M,Fever,3,Walk-in,15
+V01240,2025-08-18 19:26,10,0-17,M,Back pain,4,Walk-in,40
+V01241,2025-08-18 20:33,4,0-17,F,Nausea/vomiting,3,Walk-in,34
+V01242,2025-08-18 21:08,34,18-34,M,Chest pain,3,Walk-in,38
+V01243,2025-08-18 23:14,11,0-17,F,Abdominal pain,3,Walk-in,27
+V01244,2025-08-18 23:24,49,35-49,F,Abdominal pain,4,Walk-in,66
+V01245,2025-08-19 04:55,62,50-64,M,Abdominal pain,3,Walk-in,33
+V01246,2025-08-19 07:58,87,65+,M,Shortness of breath,2,Ambulance,20
+V01247,2025-08-19 15:00,2,0-17,M,Nausea/vomiting,4,Ambulance,167
+V01248,2025-08-19 22:30,36,35-49,M,Shortness of breath,3,Walk-in,29
+V01249,2025-08-20 04:50,20,18-34,M,Chest pain,2,Walk-in,28
+V01250,2025-08-20 08:39,40,35-49,F,Headache,3,Walk-in,53
+V01251,2025-08-20 12:41,69,65+,M,Chest pain,2,Walk-in,31
+V01252,2025-08-20 21:13,28,18-34,M,Chest pain,3,Ambulance,38
+V01253,2025-08-21 05:52,13,0-17,F,Laceration,4,Ambulance,22
+V01254,2025-08-21 08:10,29,18-34,M,Shortness of breath,3,Walk-in,28
+V01255,2025-08-21 09:19,49,35-49,F,Chest pain,2,Walk-in,19
+V01256,2025-08-21 12:16,20,18-34,M,Injury,5,Walk-in,102
+V01257,2025-08-21 14:37,8,0-17,M,Headache,5,Walk-in,49
+V01258,2025-08-21 16:30,6,0-17,M,Injury,3,Walk-in,41
+V01259,2025-08-21 21:28,49,35-49,F,Laceration,4,Walk-in,23
+V01260,2025-08-22 05:10,92,65+,F,Chest pain,3,Walk-in,21
+V01261,2025-08-22 11:22,59,50-64,F,Abdominal pain,3,Walk-in,105
+V01262,2025-08-22 16:20,88,65+,F,Laceration,3,Ambulance,103
+V01263,2025-08-23 02:42,93,65+,F,Rash,5,Walk-in,63
+V01264,2025-08-23 02:50,15,0-17,F,Headache,4,Walk-in,123
+V01265,2025-08-23 04:02,39,35-49,F,Back pain,3,Walk-in,57
+V01266,2025-08-23 12:43,44,35-49,M,Abdominal pain,3,Walk-in,72
+V01267,2025-08-23 19:39,46,35-49,F,Chest pain,4,Walk-in,51
+V01268,2025-08-24 02:18,63,50-64,M,Abdominal pain,4,Ambulance,98
+V01269,2025-08-24 03:10,15,0-17,F,Shortness of breath,2,Walk-in,16
+V01270,2025-08-24 04:33,43,35-49,M,Rash,4,Ambulance,66
+V01271,2025-08-24 09:08,61,50-64,F,Rash,3,Walk-in,51
+V01272,2025-08-24 12:44,39,35-49,M,Abdominal pain,3,Walk-in,57
+V01273,2025-08-24 15:46,50,50-64,M,Chest pain,3,Ambulance,42
+V01274,2025-08-24 16:36,80,65+,F,Injury,4,Ambulance,103
+V01275,2025-08-24 17:03,34,18-34,F,Rash,5,Walk-in,78
+V01276,2025-08-24 21:24,44,35-49,M,Rash,5,Walk-in,31
+V01277,2025-08-24 22:39,4,0-17,F,Shortness of breath,2,Walk-in,14
+V01278,2025-08-25 00:39,47,35-49,M,Injury,5,Ambulance,80
+V01279,2025-08-25 00:48,25,18-34,F,Fever,3,Ambulance,13
+V01280,2025-08-25 03:11,41,35-49,M,Abdominal pain,3,Ambulance,35
+V01281,2025-08-25 05:05,37,35-49,F,Headache,4,Walk-in,37
+V01282,2025-08-25 09:06,56,50-64,F,Injury,3,Walk-in,21
+V01283,2025-08-25 15:20,7,0-17,F,Headache,4,Walk-in,42
+V01284,2025-08-26 08:12,69,65+,M,Nausea/vomiting,4,Ambulance,56
+V01285,2025-08-26 14:04,26,18-34,M,Shortness of breath,3,Walk-in,71
+V01286,2025-08-26 18:56,20,18-34,F,Injury,5,Walk-in,41
+V01287,2025-08-26 20:26,64,50-64,F,Injury,3,Walk-in,81
+V01288,2025-08-26 23:02,15,0-17,M,Fever,3,Walk-in,12
+V01289,2025-08-27 04:12,9,0-17,F,Injury,4,Walk-in,45
+V01290,2025-08-27 05:45,63,50-64,F,Abdominal pain,3,Walk-in,53
+V01291,2025-08-27 10:41,25,18-34,M,Laceration,5,Walk-in,38
+V01292,2025-08-27 15:57,49,35-49,F,Nausea/vomiting,3,Walk-in,56
+V01293,2025-08-27 20:02,9,0-17,F,Abdominal pain,3,Walk-in,42
+V01294,2025-08-27 21:09,25,18-34,F,Headache,5,Walk-in,90
+V01295,2025-08-28 16:05,31,18-34,M,Abdominal pain,2,Ambulance,20
+V01296,2025-08-28 17:25,31,18-34,M,Fever,5,Walk-in,103
+V01297,2025-08-28 19:21,89,65+,F,Abdominal pain,3,Walk-in,91
+V01298,2025-08-28 19:45,27,18-34,F,Fever,4,Ambulance,132
+V01299,2025-08-28 22:45,26,18-34,F,Fever,5,Ambulance,34
+V01300,2025-08-29 06:47,59,50-64,F,Back pain,3,Walk-in,18
+V01301,2025-08-29 12:45,62,50-64,M,Laceration,4,Ambulance,81
+V01302,2025-08-29 17:48,17,0-17,F,Laceration,4,Walk-in,94
+V01303,2025-08-29 19:22,3,0-17,F,Injury,3,Walk-in,35
+V01304,2025-08-29 19:56,20,18-34,F,Nausea/vomiting,4,Ambulance,112
+V01305,2025-08-29 23:10,30,18-34,F,Laceration,5,Walk-in,40
+V01306,2025-08-29 23:14,66,65+,F,Rash,3,Ambulance,35
+V01307,2025-08-29 23:50,27,18-34,F,Back pain,5,Walk-in,24
+V01308,2025-08-30 00:06,25,18-34,M,Laceration,4,Walk-in,45
+V01309,2025-08-30 03:23,51,50-64,F,Injury,4,Walk-in,43
+V01310,2025-08-30 03:53,42,35-49,M,Injury,4,Walk-in,40
+V01311,2025-08-30 06:38,21,18-34,F,Injury,5,Walk-in,63
+V01312,2025-08-30 07:39,42,35-49,F,Abdominal pain,3,Ambulance,18
+V01313,2025-08-30 09:10,83,65+,F,Fever,3,Walk-in,57
+V01314,2025-08-30 12:00,19,18-34,M,Shortness of breath,2,Walk-in,43
+V01315,2025-08-30 17:23,76,65+,M,Chest pain,4,Walk-in,112
+V01316,2025-08-31 06:54,1,0-17,M,Abdominal pain,3,Walk-in,10
+V01317,2025-08-31 15:24,20,18-34,F,Injury,5,Walk-in,190
+V01318,2025-08-31 21:42,69,65+,M,Abdominal pain,3,Walk-in,143
+V01319,2025-09-01 04:17,71,65+,F,Fever,4,Walk-in,53
+V01320,2025-09-01 05:10,38,35-49,M,Laceration,3,Walk-in,54
+V01321,2025-09-01 05:44,85,65+,F,Headache,4,Walk-in,93
+V01322,2025-09-01 10:04,85,65+,M,Laceration,5,Walk-in,59
+V01323,2025-09-01 16:46,3,0-17,M,Headache,4,Walk-in,48
+V01324,2025-09-01 19:56,87,65+,F,Abdominal pain,2,Ambulance,26
+V01325,2025-09-01 20:22,55,50-64,F,Injury,3,Ambulance,38
+V01326,2025-09-01 21:05,17,0-17,M,Injury,4,Walk-in,87
+V01327,2025-09-02 01:45,59,50-64,M,Injury,3,Walk-in,35
+V01328,2025-09-02 09:55,33,18-34,M,Abdominal pain,3,Walk-in,36
+V01329,2025-09-02 16:49,22,18-34,F,Abdominal pain,3,Walk-in,56
+V01330,2025-09-02 21:36,93,65+,F,Nausea/vomiting,3,Walk-in,87
+V01331,2025-09-03 03:07,17,0-17,F,Injury,3,Walk-in,26
+V01332,2025-09-03 04:23,19,18-34,F,Nausea/vomiting,3,Walk-in,29
+V01333,2025-09-03 08:00,77,65+,M,Fever,3,Walk-in,33
+V01334,2025-09-03 11:50,60,50-64,M,Chest pain,3,Walk-in,62
+V01335,2025-09-03 12:02,15,0-17,F,Headache,4,Ambulance,63
+V01336,2025-09-03 13:37,0,0-17,F,Abdominal pain,3,Walk-in,28
+V01337,2025-09-03 13:46,33,18-34,F,Injury,3,Walk-in,68
+V01338,2025-09-03 17:44,37,35-49,M,Rash,4,Ambulance,70
+V01339,2025-09-03 22:02,78,65+,F,Chest pain,3,Walk-in,59
+V01340,2025-09-04 02:45,33,18-34,M,Nausea/vomiting,3,Ambulance,43
+V01341,2025-09-04 03:45,94,65+,F,Chest pain,4,Walk-in,54
+V01342,2025-09-04 07:35,91,65+,M,Chest pain,3,Ambulance,23
+V01343,2025-09-04 09:22,36,35-49,F,Chest pain,5,Walk-in,37
+V01344,2025-09-04 11:33,47,35-49,F,Injury,3,Ambulance,56
+V01345,2025-09-04 13:30,12,0-17,F,Injury,4,Walk-in,79
+V01346,2025-09-04 13:32,64,50-64,M,Headache,3,Walk-in,48
+V01347,2025-09-05 07:17,90,65+,F,Nausea/vomiting,3,Walk-in,33
+V01348,2025-09-05 07:26,52,50-64,F,Back pain,4,Walk-in,23
+V01349,2025-09-05 10:29,38,35-49,M,Fever,4,Walk-in,42
+V01350,2025-09-05 10:35,27,18-34,M,Shortness of breath,2,Walk-in,15
+V01351,2025-09-05 15:22,49,35-49,M,Rash,4,Ambulance,92
+V01352,2025-09-05 15:24,50,50-64,M,Shortness of breath,2,Ambulance,28
+V01353,2025-09-05 19:28,51,50-64,M,Abdominal pain,3,Walk-in,36
+V01354,2025-09-05 20:05,52,50-64,F,Back pain,2,Walk-in,21
+V01355,2025-09-06 02:01,48,35-49,M,Injury,2,Walk-in,31
+V01356,2025-09-06 07:27,10,0-17,F,Laceration,4,Walk-in,73
+V01357,2025-09-06 09:48,6,0-17,M,Injury,4,Walk-in,38
+V01358,2025-09-06 11:01,45,35-49,M,Injury,4,Walk-in,51
+V01359,2025-09-06 19:38,24,18-34,M,Rash,4,Walk-in,41
+V01360,2025-09-06 23:47,63,50-64,M,Injury,4,Walk-in,56
+V01361,2025-09-07 02:36,49,35-49,F,Chest pain,3,Walk-in,33
+V01362,2025-09-07 06:04,20,18-34,F,Chest pain,3,Walk-in,59
+V01363,2025-09-07 10:07,77,65+,F,Injury,3,Walk-in,39
+V01364,2025-09-07 10:46,1,0-17,M,Injury,4,Walk-in,65
+V01365,2025-09-07 19:51,46,35-49,M,Fever,3,Walk-in,76
+V01366,2025-09-07 22:30,59,50-64,M,Abdominal pain,3,Ambulance,27
+V01367,2025-09-07 23:48,53,50-64,M,Fever,4,Walk-in,70
+V01368,2025-09-07 23:55,60,50-64,F,Chest pain,3,Walk-in,28
+V01369,2025-09-08 01:25,76,65+,F,Fever,4,Ambulance,84
+V01370,2025-09-08 03:42,19,18-34,F,Chest pain,2,Walk-in,18
+V01371,2025-09-08 11:49,46,35-49,F,Back pain,4,Walk-in,115
+V01372,2025-09-08 19:04,48,35-49,F,Laceration,5,Ambulance,169
+V01373,2025-09-08 20:40,54,50-64,F,Abdominal pain,3,Walk-in,63
+V01374,2025-09-09 02:24,28,18-34,M,Abdominal pain,3,Walk-in,13
+V01375,2025-09-09 08:51,34,18-34,F,Rash,4,Walk-in,71
+V01376,2025-09-09 10:27,50,50-64,F,Fever,4,Walk-in,55
+V01377,2025-09-09 15:40,15,0-17,F,Chest pain,3,Walk-in,78
+V01378,2025-09-09 15:49,30,18-34,M,Chest pain,3,Walk-in,37
+V01379,2025-09-09 23:04,4,0-17,F,Abdominal pain,3,Walk-in,34
+V01380,2025-09-10 03:00,8,0-17,F,Rash,4,Walk-in,42
+V01381,2025-09-10 07:05,12,0-17,F,Rash,5,Walk-in,43
+V01382,2025-09-10 07:35,8,0-17,M,Chest pain,2,Walk-in,10
+V01383,2025-09-10 18:47,42,35-49,F,Injury,3,Walk-in,18
+V01384,2025-09-10 20:20,31,18-34,F,Shortness of breath,2,Ambulance,25
+V01385,2025-09-10 20:58,35,35-49,M,Chest pain,3,Ambulance,41
+V01386,2025-09-11 05:51,90,65+,M,Abdominal pain,3,Walk-in,58
+V01387,2025-09-11 08:24,78,65+,M,Chest pain,3,Walk-in,46
+V01388,2025-09-11 08:31,68,65+,M,Injury,3,Walk-in,41
+V01389,2025-09-11 15:56,10,0-17,F,Back pain,5,Ambulance,63
+V01390,2025-09-12 04:04,6,0-17,F,Back pain,5,Walk-in,30
+V01391,2025-09-12 05:23,33,18-34,M,Chest pain,2,Ambulance,8
+V01392,2025-09-12 09:27,61,50-64,F,Rash,4,Walk-in,38
+V01393,2025-09-12 18:59,91,65+,M,Nausea/vomiting,4,Walk-in,91
+V01394,2025-09-12 21:21,59,50-64,F,Headache,2,Ambulance,27
+V01395,2025-09-12 21:46,20,18-34,F,Rash,5,Ambulance,97
+V01396,2025-09-12 23:21,56,50-64,M,Chest pain,3,Walk-in,51
+V01397,2025-09-13 02:58,69,65+,F,Back pain,4,Walk-in,87
+V01398,2025-09-13 03:14,37,35-49,M,Fever,2,Walk-in,15
+V01399,2025-09-13 05:03,39,35-49,M,Abdominal pain,4,Walk-in,36
+V01400,2025-09-13 05:14,46,35-49,F,Abdominal pain,3,Walk-in,18
+V01401,2025-09-13 06:34,81,65+,M,Shortness of breath,4,Walk-in,81
+V01402,2025-09-13 13:43,69,65+,M,Laceration,5,Ambulance,94
+V01403,2025-09-13 18:25,26,18-34,M,Rash,4,Walk-in,43
+V01404,2025-09-13 19:27,20,18-34,F,Nausea/vomiting,4,Walk-in,62
+V01405,2025-09-14 02:05,49,35-49,M,Injury,4,Walk-in,40
+V01406,2025-09-14 05:22,49,35-49,F,Rash,5,Walk-in,99
+V01407,2025-09-14 09:21,87,65+,F,Injury,4,Walk-in,37
+V01408,2025-09-14 15:45,54,50-64,M,Abdominal pain,3,Walk-in,106
+V01409,2025-09-14 17:47,46,35-49,M,Abdominal pain,3,Walk-in,70
+V01410,2025-09-15 01:54,5,0-17,F,Abdominal pain,3,Ambulance,37
+V01411,2025-09-15 02:20,23,18-34,F,Rash,3,Ambulance,60
+V01412,2025-09-15 06:59,55,50-64,M,Laceration,5,Walk-in,64
+V01413,2025-09-15 16:30,19,18-34,F,Headache,4,Walk-in,112
+V01414,2025-09-15 16:30,91,65+,M,Laceration,4,Walk-in,77
+V01415,2025-09-15 16:45,29,18-34,M,Back pain,5,Walk-in,78
+V01416,2025-09-15 17:40,10,0-17,M,Chest pain,3,Walk-in,43
+V01417,2025-09-16 01:19,6,0-17,M,Chest pain,3,Walk-in,12
+V01418,2025-09-16 06:14,55,50-64,M,Laceration,4,Walk-in,59
+V01419,2025-09-16 07:21,29,18-34,M,Back pain,4,Walk-in,34
+V01420,2025-09-16 10:16,76,65+,M,Headache,3,Walk-in,40
+V01421,2025-09-16 14:29,11,0-17,F,Headache,4,Walk-in,28
+V01422,2025-09-17 03:01,3,0-17,F,Abdominal pain,3,Walk-in,39
+V01423,2025-09-17 04:01,11,0-17,F,Fever,3,Walk-in,10
+V01424,2025-09-17 09:25,91,65+,M,Shortness of breath,2,Walk-in,17
+V01425,2025-09-17 10:30,35,35-49,F,Injury,5,Walk-in,210
+V01426,2025-09-17 15:00,6,0-17,M,Shortness of breath,1,Walk-in,3
+V01427,2025-09-17 15:02,23,18-34,F,Nausea/vomiting,4,Walk-in,93
+V01428,2025-09-18 08:50,24,18-34,F,Chest pain,2,Ambulance,20
+V01429,2025-09-18 16:00,33,18-34,F,Abdominal pain,3,Ambulance,83
+V01430,2025-09-18 22:25,2,0-17,M,Shortness of breath,2,Walk-in,7
+V01431,2025-09-19 03:41,48,35-49,M,Back pain,4,Walk-in,60
+V01432,2025-09-19 05:09,32,18-34,M,Nausea/vomiting,3,Ambulance,22
+V01433,2025-09-19 07:22,18,18-34,F,Abdominal pain,3,Walk-in,47
+V01434,2025-09-19 08:22,17,0-17,M,Nausea/vomiting,3,Walk-in,22
+V01435,2025-09-19 09:14,30,18-34,M,Rash,4,Walk-in,23
+V01436,2025-09-19 09:22,47,35-49,M,Laceration,5,Walk-in,80
+V01437,2025-09-19 19:03,63,50-64,F,Injury,3,Walk-in,110
+V01438,2025-09-19 20:48,42,35-49,F,Chest pain,2,Walk-in,19
+V01439,2025-09-19 21:16,93,65+,F,Chest pain,3,Walk-in,90
+V01440,2025-09-20 01:29,20,18-34,M,Fever,3,Walk-in,51
+V01441,2025-09-20 03:52,21,18-34,M,Chest pain,2,Ambulance,8
+V01442,2025-09-20 05:41,0,0-17,F,Shortness of breath,2,Walk-in,35
+V01443,2025-09-20 08:35,27,18-34,M,Rash,4,Walk-in,80
+V01444,2025-09-20 09:36,70,65+,M,Laceration,4,Ambulance,46
+V01445,2025-09-20 20:17,41,35-49,F,Back pain,4,Walk-in,71
+V01446,2025-09-21 09:28,61,50-64,M,Laceration,3,Ambulance,47
+V01447,2025-09-21 17:59,17,0-17,F,Fever,4,Ambulance,53
+V01448,2025-09-21 21:58,84,65+,F,Laceration,4,Walk-in,115
+V01449,2025-09-21 23:33,78,65+,M,Nausea/vomiting,4,Ambulance,52
+V01450,2025-09-22 06:40,75,65+,M,Fever,3,Walk-in,50
+V01451,2025-09-22 07:31,29,18-34,F,Headache,3,Ambulance,49
+V01452,2025-09-22 08:17,9,0-17,F,Back pain,4,Walk-in,21
+V01453,2025-09-22 10:24,17,0-17,M,Laceration,4,Ambulance,47
+V01454,2025-09-22 13:13,52,50-64,M,Fever,3,Walk-in,65
+V01455,2025-09-22 14:13,38,35-49,F,Chest pain,3,Walk-in,81
+V01456,2025-09-22 21:44,61,50-64,M,Chest pain,4,Walk-in,104
+V01457,2025-09-22 23:46,70,65+,F,Nausea/vomiting,3,Ambulance,30
+V01458,2025-09-23 14:23,43,35-49,M,Laceration,4,Ambulance,44
+V01459,2025-09-24 00:53,43,35-49,F,Chest pain,4,Walk-in,44
+V01460,2025-09-24 02:21,40,35-49,M,Rash,5,Walk-in,34
+V01461,2025-09-24 02:59,28,18-34,F,Shortness of breath,2,Walk-in,15
+V01462,2025-09-24 03:22,27,18-34,M,Chest pain,4,Walk-in,44
+V01463,2025-09-24 07:27,54,50-64,F,Injury,2,Walk-in,17
+V01464,2025-09-24 11:10,57,50-64,M,Back pain,4,Ambulance,38
+V01465,2025-09-24 12:26,74,65+,M,Chest pain,3,Walk-in,51
+V01466,2025-09-24 15:06,12,0-17,F,Abdominal pain,3,Walk-in,98
+V01467,2025-09-24 18:12,91,65+,M,Fever,3,Ambulance,54
+V01468,2025-09-24 19:16,81,65+,M,Fever,2,Walk-in,31
+V01469,2025-09-25 13:03,81,65+,F,Chest pain,2,Walk-in,30
+V01470,2025-09-25 16:05,73,65+,F,Nausea/vomiting,5,Walk-in,122
+V01471,2025-09-25 17:20,13,0-17,F,Injury,5,Walk-in,67
+V01472,2025-09-25 17:43,0,0-17,M,Headache,4,Ambulance,79
+V01473,2025-09-25 18:05,24,18-34,M,Chest pain,3,Walk-in,34
+V01474,2025-09-25 20:48,67,65+,M,Chest pain,2,Ambulance,26
+V01475,2025-09-26 00:31,32,18-34,M,Shortness of breath,4,Walk-in,29
+V01476,2025-09-26 01:18,68,65+,F,Shortness of breath,3,Walk-in,32
+V01477,2025-09-26 04:52,65,65+,F,Chest pain,2,Walk-in,18
+V01478,2025-09-26 05:04,53,50-64,F,Laceration,4,Ambulance,53
+V01479,2025-09-26 08:34,79,65+,M,Rash,5,Walk-in,45
+V01480,2025-09-26 09:16,68,65+,M,Fever,4,Ambulance,72
+V01481,2025-09-26 10:29,5,0-17,M,Chest pain,2,Ambulance,22
+V01482,2025-09-26 10:37,58,50-64,F,Chest pain,4,Ambulance,73
+V01483,2025-09-26 21:13,12,0-17,M,Chest pain,3,Walk-in,53
+V01484,2025-09-27 08:39,37,35-49,M,Injury,3,Walk-in,62
+V01485,2025-09-27 09:11,35,35-49,F,Injury,3,Ambulance,21
+V01486,2025-09-27 09:22,59,50-64,F,Chest pain,2,Walk-in,24
+V01487,2025-09-27 10:26,74,65+,F,Chest pain,3,Walk-in,55
+V01488,2025-09-27 12:57,87,65+,M,Shortness of breath,2,Ambulance,50
+V01489,2025-09-27 21:53,16,0-17,F,Headache,3,Walk-in,58
+V01490,2025-09-27 22:36,1,0-17,M,Injury,3,Walk-in,7
+V01491,2025-09-28 17:23,17,0-17,M,Fever,3,Walk-in,40
+V01492,2025-09-28 19:09,68,65+,M,Fever,3,Walk-in,52
+V01493,2025-09-29 00:55,33,18-34,F,Shortness of breath,3,Walk-in,30
+V01494,2025-09-29 03:11,7,0-17,M,Injury,3,Walk-in,36
+V01495,2025-09-29 03:29,39,35-49,M,Chest pain,3,Walk-in,89
+V01496,2025-09-29 14:48,30,18-34,F,Injury,3,Walk-in,69
+V01497,2025-09-29 17:09,3,0-17,M,Injury,5,Ambulance,28
+V01498,2025-09-30 17:07,47,35-49,M,Nausea/vomiting,4,Walk-in,108
+V01499,2025-09-30 17:49,14,0-17,M,Chest pain,2,Ambulance,25
+V01500,2025-09-30 19:52,55,50-64,M,Headache,4,Ambulance,79
+V01501,2025-10-01 03:56,92,65+,M,Injury,4,Walk-in,54
+V01502,2025-10-01 08:36,64,50-64,M,Chest pain,3,Walk-in,20
+V01503,2025-10-01 10:54,25,18-34,F,Fever,4,Walk-in,24
+V01504,2025-10-01 13:39,19,18-34,M,Abdominal pain,3,Ambulance,49
+V01505,2025-10-01 20:37,28,18-34,F,Nausea/vomiting,3,Ambulance,110
+V01506,2025-10-02 15:04,64,50-64,M,Rash,3,Ambulance,37
+V01507,2025-10-02 17:36,90,65+,F,Laceration,4,Ambulance,163
+V01508,2025-10-02 19:34,10,0-17,M,Rash,5,Walk-in,48
+V01509,2025-10-03 01:44,93,65+,F,Nausea/vomiting,3,Walk-in,15
+V01510,2025-10-03 02:06,69,65+,F,Abdominal pain,3,Walk-in,27
+V01511,2025-10-03 03:17,56,50-64,F,Nausea/vomiting,3,Ambulance,137
+V01512,2025-10-03 08:49,39,35-49,M,Headache,4,Walk-in,59
+V01513,2025-10-03 13:18,24,18-34,M,Shortness of breath,3,Ambulance,69
+V01514,2025-10-03 14:05,14,0-17,M,Back pain,3,Walk-in,45
+V01515,2025-10-03 16:03,51,50-64,M,Chest pain,3,Walk-in,51
+V01516,2025-10-04 03:36,90,65+,M,Shortness of breath,3,Ambulance,64
+V01517,2025-10-04 06:56,44,35-49,F,Abdominal pain,4,Walk-in,46
+V01518,2025-10-04 08:23,60,50-64,F,Shortness of breath,2,Walk-in,38
+V01519,2025-10-04 12:33,53,50-64,M,Injury,3,Walk-in,80
+V01520,2025-10-04 12:39,1,0-17,M,Injury,4,Walk-in,36
+V01521,2025-10-04 20:22,70,65+,M,Chest pain,2,Walk-in,23
+V01522,2025-10-04 23:39,43,35-49,F,Nausea/vomiting,3,Walk-in,35
+V01523,2025-10-05 02:19,71,65+,F,Injury,1,Walk-in,12
+V01524,2025-10-05 03:13,70,65+,F,Chest pain,2,Walk-in,25
+V01525,2025-10-05 04:10,54,50-64,F,Laceration,3,Walk-in,18
+V01526,2025-10-05 09:42,15,0-17,M,Injury,3,Walk-in,11
+V01527,2025-10-05 13:34,50,50-64,M,Fever,3,Walk-in,35
+V01528,2025-10-05 17:09,20,18-34,M,Laceration,4,Walk-in,78
+V01529,2025-10-05 17:19,42,35-49,M,Chest pain,3,Walk-in,38
+V01530,2025-10-06 00:12,92,65+,F,Chest pain,3,Ambulance,39
+V01531,2025-10-06 06:41,64,50-64,F,Injury,5,Walk-in,92
+V01532,2025-10-06 10:20,56,50-64,F,Chest pain,4,Walk-in,36
+V01533,2025-10-07 09:52,56,50-64,F,Laceration,4,Walk-in,78
+V01534,2025-10-07 12:28,33,18-34,F,Injury,4,Walk-in,36
+V01535,2025-10-07 13:57,19,18-34,F,Shortness of breath,3,Ambulance,31
+V01536,2025-10-07 16:18,37,35-49,M,Chest pain,3,Ambulance,51
+V01537,2025-10-07 19:38,43,35-49,F,Shortness of breath,4,Walk-in,110
+V01538,2025-10-07 23:11,9,0-17,M,Chest pain,2,Ambulance,7
+V01539,2025-10-07 23:40,42,35-49,F,Fever,3,Ambulance,24
+V01540,2025-10-08 00:27,29,18-34,M,Laceration,5,Walk-in,89
+V01541,2025-10-08 01:42,70,65+,M,Abdominal pain,3,Ambulance,36
+V01542,2025-10-08 11:10,0,0-17,M,Abdominal pain,4,Ambulance,50
+V01543,2025-10-09 05:18,78,65+,M,Rash,5,Walk-in,74
+V01544,2025-10-09 07:35,25,18-34,M,Chest pain,2,Walk-in,27
+V01545,2025-10-09 09:50,36,35-49,M,Laceration,5,Walk-in,54
+V01546,2025-10-09 17:02,26,18-34,M,Injury,4,Walk-in,41
+V01547,2025-10-09 19:05,26,18-34,M,Laceration,4,Walk-in,100
+V01548,2025-10-09 23:02,24,18-34,F,Rash,5,Walk-in,52
+V01549,2025-10-09 23:34,9,0-17,F,Injury,4,Ambulance,38
+V01550,2025-10-10 01:28,57,50-64,F,Rash,4,Walk-in,61
+V01551,2025-10-10 03:08,29,18-34,F,Nausea/vomiting,5,Walk-in,29
+V01552,2025-10-10 06:32,69,65+,F,Back pain,4,Walk-in,130
+V01553,2025-10-10 16:11,86,65+,F,Injury,3,Walk-in,59
+V01554,2025-10-10 19:58,32,18-34,F,Fever,3,Walk-in,47
+V01555,2025-10-10 21:26,84,65+,F,Laceration,5,Walk-in,115
+V01556,2025-10-10 21:36,73,65+,M,Rash,3,Ambulance,48
+V01557,2025-10-10 21:47,55,50-64,M,Nausea/vomiting,4,Walk-in,73
+V01558,2025-10-10 22:30,22,18-34,M,Chest pain,2,Walk-in,16
+V01559,2025-10-11 07:32,13,0-17,M,Nausea/vomiting,4,Walk-in,21
+V01560,2025-10-11 08:25,64,50-64,F,Chest pain,2,Walk-in,20
+V01561,2025-10-11 10:18,73,65+,M,Rash,5,Walk-in,32
+V01562,2025-10-11 14:08,28,18-34,F,Chest pain,3,Walk-in,40
+V01563,2025-10-11 16:02,7,0-17,F,Chest pain,3,Walk-in,29
+V01564,2025-10-11 20:37,87,65+,F,Back pain,4,Walk-in,90
+V01565,2025-10-11 21:17,36,35-49,M,Abdominal pain,3,Walk-in,65
+V01566,2025-10-12 04:34,1,0-17,M,Fever,4,Walk-in,27
+V01567,2025-10-12 09:00,65,65+,M,Shortness of breath,3,Ambulance,24
+V01568,2025-10-12 11:52,40,35-49,M,Chest pain,2,Walk-in,37
+V01569,2025-10-12 13:44,32,18-34,F,Laceration,3,Walk-in,91
+V01570,2025-10-12 19:54,57,50-64,F,Chest pain,3,Walk-in,63
+V01571,2025-10-13 04:17,60,50-64,M,Injury,2,Ambulance,18
+V01572,2025-10-13 06:17,40,35-49,F,Fever,4,Ambulance,43
+V01573,2025-10-13 08:40,2,0-17,F,Shortness of breath,3,Walk-in,18
+V01574,2025-10-13 10:35,18,18-34,F,Injury,2,Walk-in,11
+V01575,2025-10-13 12:51,82,65+,M,Injury,3,Walk-in,33
+V01576,2025-10-13 21:55,22,18-34,M,Laceration,3,Walk-in,54
+V01577,2025-10-14 08:27,22,18-34,F,Rash,5,Ambulance,49
+V01578,2025-10-14 23:31,13,0-17,M,Chest pain,3,Walk-in,31
+V01579,2025-10-15 04:10,34,18-34,M,Chest pain,4,Walk-in,27
+V01580,2025-10-15 12:54,32,18-34,M,Back pain,3,Walk-in,77
+V01581,2025-10-16 10:32,62,50-64,M,Fever,3,Walk-in,36
+V01582,2025-10-16 12:32,59,50-64,M,Fever,3,Walk-in,46
+V01583,2025-10-16 14:22,91,65+,M,Chest pain,2,Ambulance,48
+V01584,2025-10-16 17:43,43,35-49,M,Chest pain,4,Walk-in,94
+V01585,2025-10-16 19:12,13,0-17,F,Chest pain,3,Ambulance,72
+V01586,2025-10-16 23:36,40,35-49,F,Injury,2,Walk-in,27
+V01587,2025-10-17 12:19,35,35-49,F,Chest pain,3,Walk-in,30
+V01588,2025-10-17 12:22,30,18-34,F,Nausea/vomiting,4,Walk-in,35
+V01589,2025-10-17 13:14,78,65+,F,Abdominal pain,2,Walk-in,20
+V01590,2025-10-17 13:21,4,0-17,M,Abdominal pain,2,Walk-in,28
+V01591,2025-10-17 18:42,2,0-17,F,Injury,4,Walk-in,64
+V01592,2025-10-17 19:48,2,0-17,F,Shortness of breath,2,Walk-in,16
+V01593,2025-10-17 23:02,70,65+,M,Fever,4,Ambulance,66
+V01594,2025-10-18 00:56,73,65+,F,Chest pain,4,Ambulance,79
+V01595,2025-10-18 05:23,42,35-49,F,Nausea/vomiting,3,Walk-in,51
+V01596,2025-10-18 08:40,6,0-17,M,Nausea/vomiting,4,Walk-in,11
+V01597,2025-10-18 09:45,38,35-49,F,Headache,3,Walk-in,23
+V01598,2025-10-18 10:12,49,35-49,M,Abdominal pain,2,Walk-in,28
+V01599,2025-10-18 13:25,31,18-34,M,Chest pain,3,Walk-in,51
+V01600,2025-10-18 17:44,61,50-64,F,Back pain,3,Walk-in,40
+V01601,2025-10-18 20:29,40,35-49,M,Fever,4,Walk-in,84
+V01602,2025-10-19 09:42,62,50-64,M,Back pain,4,Ambulance,27
+V01603,2025-10-19 11:49,61,50-64,F,Shortness of breath,2,Ambulance,20
+V01604,2025-10-19 16:04,54,50-64,M,Fever,3,Walk-in,34
+V01605,2025-10-19 17:58,25,18-34,M,Headache,4,Ambulance,110
+V01606,2025-10-20 00:57,42,35-49,F,Chest pain,3,Ambulance,24
+V01607,2025-10-20 16:26,41,35-49,F,Headache,4,Ambulance,39
+V01608,2025-10-20 18:59,22,18-34,M,Nausea/vomiting,2,Walk-in,36
+V01609,2025-10-20 20:54,33,18-34,F,Fever,3,Ambulance,35
+V01610,2025-10-20 22:01,33,18-34,F,Abdominal pain,2,Walk-in,18
+V01611,2025-10-21 02:18,92,65+,F,Injury,3,Walk-in,31
+V01612,2025-10-21 11:05,51,50-64,M,Abdominal pain,4,Walk-in,59
+V01613,2025-10-21 14:27,24,18-34,M,Shortness of breath,2,Walk-in,19
+V01614,2025-10-21 16:50,4,0-17,F,Abdominal pain,4,Walk-in,48
+V01615,2025-10-22 00:37,44,35-49,F,Chest pain,2,Ambulance,23
+V01616,2025-10-22 02:36,32,18-34,F,Laceration,3,Walk-in,29
+V01617,2025-10-22 05:21,25,18-34,F,Abdominal pain,2,Walk-in,11
+V01618,2025-10-22 11:23,79,65+,M,Chest pain,2,Ambulance,24
+V01619,2025-10-22 15:22,7,0-17,F,Laceration,4,Walk-in,50
+V01620,2025-10-22 15:30,41,35-49,F,Chest pain,4,Walk-in,50
+V01621,2025-10-22 21:34,15,0-17,M,Shortness of breath,3,Ambulance,37
+V01622,2025-10-22 22:15,84,65+,F,Laceration,4,Walk-in,65
+V01623,2025-10-23 04:34,6,0-17,F,Back pain,2,Walk-in,15
+V01624,2025-10-23 11:13,40,35-49,M,Headache,4,Walk-in,72
+V01625,2025-10-23 11:40,49,35-49,M,Fever,5,Ambulance,69
+V01626,2025-10-23 11:40,57,50-64,F,Shortness of breath,3,Ambulance,65
+V01627,2025-10-23 14:15,40,35-49,M,Abdominal pain,2,Walk-in,22
+V01628,2025-10-23 14:52,53,50-64,M,Injury,2,Ambulance,33
+V01629,2025-10-23 15:44,79,65+,F,Injury,2,Walk-in,18
+V01630,2025-10-23 17:13,25,18-34,M,Fever,3,Walk-in,31
+V01631,2025-10-24 03:07,10,0-17,F,Chest pain,2,Walk-in,49
+V01632,2025-10-24 04:02,20,18-34,M,Laceration,3,Ambulance,28
+V01633,2025-10-24 04:52,19,18-34,M,Headache,4,Walk-in,44
+V01634,2025-10-24 15:55,34,18-34,F,Abdominal pain,3,Walk-in,27
+V01635,2025-10-24 21:52,29,18-34,M,Abdominal pain,3,Ambulance,34
+V01636,2025-10-25 02:42,23,18-34,F,Abdominal pain,3,Ambulance,36
+V01637,2025-10-25 04:00,27,18-34,F,Shortness of breath,2,Ambulance,9
+V01638,2025-10-25 10:17,5,0-17,M,Shortness of breath,3,Walk-in,19
+V01639,2025-10-25 17:16,32,18-34,F,Chest pain,3,Walk-in,38
+V01640,2025-10-26 00:21,37,35-49,F,Chest pain,2,Walk-in,14
+V01641,2025-10-26 01:34,91,65+,F,Headache,3,Walk-in,47
+V01642,2025-10-26 06:09,75,65+,F,Nausea/vomiting,3,Walk-in,32
+V01643,2025-10-26 14:57,52,50-64,F,Chest pain,3,Walk-in,57
+V01644,2025-10-26 16:32,72,65+,M,Abdominal pain,2,Walk-in,11
+V01645,2025-10-27 09:08,71,65+,M,Shortness of breath,4,Walk-in,59
+V01646,2025-10-27 10:28,84,65+,M,Laceration,4,Walk-in,33
+V01647,2025-10-27 14:53,7,0-17,F,Headache,3,Walk-in,35
+V01648,2025-10-27 18:32,25,18-34,M,Laceration,5,Walk-in,232
+V01649,2025-10-27 20:23,47,35-49,F,Shortness of breath,3,Walk-in,76
+V01650,2025-10-27 22:54,9,0-17,F,Rash,4,Walk-in,24
+V01651,2025-10-28 00:45,40,35-49,M,Rash,5,Ambulance,65
+V01652,2025-10-28 03:43,20,18-34,M,Rash,5,Walk-in,36
+V01653,2025-10-28 05:16,10,0-17,M,Back pain,5,Walk-in,68
+V01654,2025-10-28 11:55,64,50-64,F,Nausea/vomiting,3,Walk-in,59
+V01655,2025-10-28 21:21,25,18-34,M,Abdominal pain,3,Ambulance,22
+V01656,2025-10-28 22:34,94,65+,M,Back pain,4,Walk-in,40
+V01657,2025-10-28 22:41,94,65+,F,Abdominal pain,4,Walk-in,47
+V01658,2025-10-29 07:17,16,0-17,M,Laceration,4,Walk-in,67
+V01659,2025-10-29 07:20,38,35-49,M,Rash,4,Walk-in,36
+V01660,2025-10-29 11:47,28,18-34,F,Back pain,4,Walk-in,53
+V01661,2025-10-29 21:46,72,65+,F,Injury,3,Walk-in,50
+V01662,2025-10-30 15:59,2,0-17,F,Shortness of breath,2,Walk-in,14
+V01663,2025-10-30 16:16,12,0-17,F,Back pain,4,Walk-in,64
+V01664,2025-10-30 23:04,16,0-17,F,Headache,4,Walk-in,38
+V01665,2025-10-31 00:56,47,35-49,M,Fever,3,Walk-in,41
+V01666,2025-10-31 08:35,29,18-34,M,Shortness of breath,2,Walk-in,11
+V01667,2025-10-31 09:01,43,35-49,M,Injury,3,Walk-in,50
+V01668,2025-10-31 11:56,42,35-49,M,Headache,3,Ambulance,24
+V01669,2025-10-31 18:22,50,50-64,M,Shortness of breath,3,Walk-in,51
+V01670,2025-10-31 21:06,22,18-34,M,Rash,3,Walk-in,49
+V01671,2025-11-01 02:29,49,35-49,M,Nausea/vomiting,3,Walk-in,19
+V01672,2025-11-01 07:18,24,18-34,F,Injury,4,Walk-in,40
+V01673,2025-11-01 11:30,30,18-34,F,Injury,3,Walk-in,50
+V01674,2025-11-01 16:37,0,0-17,F,Back pain,3,Walk-in,81
+V01675,2025-11-01 19:05,79,65+,F,Abdominal pain,3,Walk-in,40
+V01676,2025-11-02 02:08,64,50-64,F,Fever,4,Walk-in,36
+V01677,2025-11-02 05:05,69,65+,F,Fever,3,Walk-in,42
+V01678,2025-11-02 12:06,34,18-34,F,Shortness of breath,2,Walk-in,20
+V01679,2025-11-03 03:03,42,35-49,M,Injury,5,Ambulance,77
+V01680,2025-11-03 07:24,53,50-64,M,Back pain,4,Ambulance,21
+V01681,2025-11-03 08:07,64,50-64,M,Rash,4,Walk-in,60
+V01682,2025-11-03 11:33,17,0-17,M,Back pain,3,Ambulance,95
+V01683,2025-11-03 16:10,13,0-17,F,Rash,5,Ambulance,45
+V01684,2025-11-03 22:55,76,65+,F,Nausea/vomiting,4,Walk-in,123
+V01685,2025-11-04 00:32,17,0-17,F,Chest pain,3,Ambulance,27
+V01686,2025-11-04 01:25,92,65+,F,Chest pain,3,Walk-in,23
+V01687,2025-11-04 02:01,84,65+,F,Fever,2,Walk-in,19
+V01688,2025-11-04 06:49,85,65+,F,Rash,5,Walk-in,12
+V01689,2025-11-04 09:29,8,0-17,M,Nausea/vomiting,3,Ambulance,21
+V01690,2025-11-04 13:43,62,50-64,M,Shortness of breath,4,Walk-in,39
+V01691,2025-11-05 10:27,40,35-49,F,Headache,5,Walk-in,55
+V01692,2025-11-05 10:33,5,0-17,F,Injury,4,Walk-in,83
+V01693,2025-11-05 15:50,56,50-64,M,Back pain,4,Walk-in,52
+V01694,2025-11-05 22:05,76,65+,M,Abdominal pain,4,Ambulance,28
+V01695,2025-11-06 00:56,29,18-34,F,Laceration,4,Walk-in,13
+V01696,2025-11-06 07:45,9,0-17,M,Back pain,5,Walk-in,37
+V01697,2025-11-06 09:02,31,18-34,M,Headache,4,Walk-in,31
+V01698,2025-11-06 14:39,34,18-34,F,Injury,4,Walk-in,53
+V01699,2025-11-06 15:22,49,35-49,M,Abdominal pain,2,Walk-in,22
+V01700,2025-11-06 16:37,44,35-49,F,Chest pain,3,Walk-in,26
+V01701,2025-11-06 21:05,65,65+,F,Shortness of breath,3,Walk-in,38
+V01702,2025-11-06 23:51,58,50-64,F,Nausea/vomiting,3,Walk-in,21
+V01703,2025-11-07 01:03,76,65+,F,Nausea/vomiting,3,Walk-in,38
+V01704,2025-11-07 01:28,33,18-34,F,Injury,5,Walk-in,56
+V01705,2025-11-07 06:18,33,18-34,M,Injury,4,Walk-in,63
+V01706,2025-11-07 07:40,0,0-17,M,Injury,3,Walk-in,27
+V01707,2025-11-07 08:32,38,35-49,M,Shortness of breath,3,Ambulance,27
+V01708,2025-11-07 13:29,48,35-49,F,Abdominal pain,2,Walk-in,45
+V01709,2025-11-07 13:50,32,18-34,M,Rash,4,Walk-in,159
+V01710,2025-11-07 15:46,7,0-17,M,Laceration,4,Ambulance,60
+V01711,2025-11-07 18:46,46,35-49,F,Abdominal pain,2,Walk-in,18
+V01712,2025-11-08 05:13,3,0-17,M,Chest pain,2,Ambulance,7
+V01713,2025-11-08 10:57,85,65+,F,Chest pain,2,Walk-in,9
+V01714,2025-11-08 13:20,22,18-34,M,Laceration,3,Ambulance,120
+V01715,2025-11-08 19:01,73,65+,M,Injury,3,Walk-in,44
+V01716,2025-11-08 19:41,18,18-34,F,Rash,4,Walk-in,96
+V01717,2025-11-08 20:02,59,50-64,M,Abdominal pain,2,Walk-in,16
+V01718,2025-11-09 07:10,32,18-34,F,Chest pain,3,Walk-in,34
+V01719,2025-11-09 10:42,51,50-64,F,Abdominal pain,3,Ambulance,38
+V01720,2025-11-09 13:42,56,50-64,F,Nausea/vomiting,4,Walk-in,81
+V01721,2025-11-09 16:17,28,18-34,M,Chest pain,2,Ambulance,23
+V01722,2025-11-09 20:33,42,35-49,M,Back pain,5,Ambulance,33
+V01723,2025-11-10 01:11,28,18-34,F,Headache,4,Walk-in,74
+V01724,2025-11-10 03:03,3,0-17,F,Injury,4,Walk-in,29
+V01725,2025-11-10 16:11,42,35-49,M,Injury,3,Ambulance,24
+V01726,2025-11-10 18:44,24,18-34,M,Chest pain,3,Walk-in,25
+V01727,2025-11-10 21:57,21,18-34,F,Abdominal pain,5,Walk-in,72
+V01728,2025-11-11 01:03,35,35-49,M,Headache,3,Walk-in,32
+V01729,2025-11-11 07:31,29,18-34,F,Laceration,5,Walk-in,30
+V01730,2025-11-11 09:40,43,35-49,F,Abdominal pain,4,Walk-in,13
+V01731,2025-11-11 09:46,73,65+,F,Abdominal pain,4,Walk-in,24
+V01732,2025-11-11 11:02,6,0-17,M,Injury,4,Walk-in,34
+V01733,2025-11-11 18:42,75,65+,F,Injury,3,Walk-in,96
+V01734,2025-11-11 19:36,18,18-34,M,Shortness of breath,2,Walk-in,19
+V01735,2025-11-12 03:20,32,18-34,F,Rash,5,Walk-in,79
+V01736,2025-11-12 08:42,83,65+,F,Shortness of breath,3,Ambulance,26
+V01737,2025-11-12 12:22,28,18-34,F,Rash,4,Walk-in,76
+V01738,2025-11-12 13:43,13,0-17,M,Laceration,4,Walk-in,61
+V01739,2025-11-12 17:38,28,18-34,M,Laceration,5,Walk-in,33
+V01740,2025-11-13 02:12,37,35-49,F,Shortness of breath,2,Walk-in,46
+V01741,2025-11-13 04:44,59,50-64,F,Back pain,3,Ambulance,43
+V01742,2025-11-13 07:44,90,65+,F,Back pain,4,Walk-in,92
+V01743,2025-11-13 07:54,60,50-64,F,Laceration,4,Walk-in,77
+V01744,2025-11-13 09:51,1,0-17,M,Fever,3,Walk-in,22
+V01745,2025-11-13 13:36,76,65+,M,Abdominal pain,2,Walk-in,23
+V01746,2025-11-13 14:17,49,35-49,F,Fever,3,Walk-in,78
+V01747,2025-11-13 17:44,48,35-49,F,Laceration,4,Walk-in,100
+V01748,2025-11-13 23:53,89,65+,M,Abdominal pain,2,Walk-in,14
+V01749,2025-11-14 04:36,34,18-34,M,Back pain,4,Walk-in,48
+V01750,2025-11-14 12:52,30,18-34,F,Fever,5,Walk-in,76
+V01751,2025-11-14 13:15,57,50-64,F,Nausea/vomiting,4,Walk-in,40
+V01752,2025-11-14 13:52,53,50-64,M,Abdominal pain,3,Walk-in,82
+V01753,2025-11-14 20:27,54,50-64,F,Shortness of breath,3,Walk-in,81
+V01754,2025-11-14 20:32,0,0-17,F,Injury,4,Walk-in,70
+V01755,2025-11-15 00:06,37,35-49,F,Shortness of breath,3,Walk-in,43
+V01756,2025-11-15 00:44,20,18-34,F,Nausea/vomiting,3,Walk-in,30
+V01757,2025-11-15 05:09,74,65+,F,Rash,4,Walk-in,28
+V01758,2025-11-15 05:16,38,35-49,M,Abdominal pain,5,Ambulance,140
+V01759,2025-11-15 07:21,15,0-17,M,Laceration,4,Walk-in,48
+V01760,2025-11-15 12:25,62,50-64,M,Abdominal pain,4,Walk-in,41
+V01761,2025-11-15 21:32,77,65+,M,Back pain,4,Walk-in,67
+V01762,2025-11-16 03:38,31,18-34,M,Abdominal pain,5,Walk-in,43
+V01763,2025-11-16 12:09,87,65+,M,Shortness of breath,3,Walk-in,36
+V01764,2025-11-16 14:57,64,50-64,F,Injury,3,Walk-in,64
+V01765,2025-11-16 16:09,11,0-17,M,Abdominal pain,3,Walk-in,16
+V01766,2025-11-16 20:52,66,65+,M,Injury,3,Walk-in,33
+V01767,2025-11-17 02:14,37,35-49,M,Injury,3,Walk-in,40
+V01768,2025-11-17 09:14,36,35-49,F,Chest pain,4,Walk-in,50
+V01769,2025-11-17 09:45,6,0-17,M,Chest pain,3,Ambulance,50
+V01770,2025-11-17 15:35,27,18-34,M,Shortness of breath,3,Walk-in,34
+V01771,2025-11-17 15:38,32,18-34,F,Fever,4,Walk-in,123
+V01772,2025-11-17 21:23,74,65+,F,Nausea/vomiting,3,Walk-in,57
+V01773,2025-11-17 22:02,50,50-64,F,Injury,4,Walk-in,37
+V01774,2025-11-18 07:45,52,50-64,M,Headache,3,Walk-in,26
+V01775,2025-11-19 05:33,60,50-64,F,Laceration,4,Ambulance,82
+V01776,2025-11-19 06:55,60,50-64,F,Back pain,4,Walk-in,72
+V01777,2025-11-19 09:13,22,18-34,M,Shortness of breath,3,Walk-in,43
+V01778,2025-11-19 14:45,48,35-49,M,Laceration,2,Walk-in,45
+V01779,2025-11-19 22:38,24,18-34,M,Laceration,4,Walk-in,52
+V01780,2025-11-20 05:24,54,50-64,M,Abdominal pain,3,Walk-in,17
+V01781,2025-11-20 05:26,49,35-49,M,Abdominal pain,2,Walk-in,7
+V01782,2025-11-20 07:18,25,18-34,F,Abdominal pain,2,Walk-in,12
+V01783,2025-11-20 08:02,50,50-64,F,Abdominal pain,4,Walk-in,27
+V01784,2025-11-20 09:16,0,0-17,M,Rash,5,Walk-in,41
+V01785,2025-11-20 13:03,62,50-64,M,Headache,3,Ambulance,39
+V01786,2025-11-20 14:07,78,65+,F,Abdominal pain,3,Ambulance,102
+V01787,2025-11-20 17:26,33,18-34,M,Injury,5,Walk-in,114
+V01788,2025-11-20 18:38,56,50-64,M,Headache,4,Walk-in,54
+V01789,2025-11-20 22:05,49,35-49,M,Rash,4,Walk-in,52
+V01790,2025-11-21 08:18,40,35-49,M,Injury,3,Walk-in,20
+V01791,2025-11-21 13:01,42,35-49,M,Nausea/vomiting,4,Walk-in,71
+V01792,2025-11-21 19:29,6,0-17,F,Chest pain,2,Ambulance,16
+V01793,2025-11-21 19:43,35,35-49,M,Back pain,5,Walk-in,55
+V01794,2025-11-22 04:12,12,0-17,M,Injury,3,Walk-in,22
+V01795,2025-11-22 12:54,24,18-34,M,Nausea/vomiting,3,Walk-in,150
+V01796,2025-11-22 15:03,72,65+,F,Rash,5,Walk-in,61
+V01797,2025-11-22 23:45,19,18-34,M,Injury,3,Walk-in,30
+V01798,2025-11-23 05:15,37,35-49,F,Abdominal pain,3,Walk-in,77
+V01799,2025-11-23 14:50,18,18-34,M,Chest pain,2,Walk-in,7
+V01800,2025-11-23 15:36,33,18-34,M,Injury,3,Walk-in,50
+V01801,2025-11-23 17:10,5,0-17,F,Nausea/vomiting,4,Walk-in,39
+V01802,2025-11-23 22:43,16,0-17,F,Abdominal pain,4,Walk-in,27
+V01803,2025-11-23 23:35,89,65+,M,Nausea/vomiting,3,Ambulance,32
+V01804,2025-11-24 04:06,55,50-64,M,Chest pain,4,Walk-in,33
+V01805,2025-11-24 22:47,25,18-34,M,Back pain,3,Walk-in,17
+V01806,2025-11-24 23:42,66,65+,F,Injury,3,Walk-in,45
+V01807,2025-11-24 23:54,42,35-49,M,Injury,4,Walk-in,29
+V01808,2025-11-25 00:05,50,50-64,M,Laceration,4,Ambulance,46
+V01809,2025-11-25 05:26,93,65+,F,Injury,4,Walk-in,41
+V01810,2025-11-25 07:05,63,50-64,F,Fever,4,Walk-in,36
+V01811,2025-11-25 08:00,9,0-17,M,Headache,4,Walk-in,21
+V01812,2025-11-25 13:49,63,50-64,F,Shortness of breath,2,Walk-in,27
+V01813,2025-11-25 19:38,61,50-64,F,Nausea/vomiting,4,Walk-in,52
+V01814,2025-11-25 20:48,57,50-64,M,Shortness of breath,2,Walk-in,21
+V01815,2025-11-26 02:10,18,18-34,M,Injury,3,Walk-in,35
+V01816,2025-11-26 03:35,5,0-17,M,Fever,3,Walk-in,18
+V01817,2025-11-26 04:45,24,18-34,M,Injury,4,Walk-in,47
+V01818,2025-11-26 10:24,34,18-34,F,Injury,4,Walk-in,31
+V01819,2025-11-26 12:02,61,50-64,F,Headache,4,Walk-in,78
+V01820,2025-11-26 13:44,27,18-34,F,Shortness of breath,3,Walk-in,32
+V01821,2025-11-26 14:28,86,65+,M,Rash,5,Walk-in,136
+V01822,2025-11-26 19:52,8,0-17,F,Nausea/vomiting,4,Ambulance,55
+V01823,2025-11-26 21:38,27,18-34,F,Chest pain,4,Walk-in,68
+V01824,2025-11-27 08:38,46,35-49,F,Injury,3,Walk-in,26
+V01825,2025-11-27 12:26,38,35-49,F,Chest pain,3,Walk-in,44
+V01826,2025-11-27 17:04,16,0-17,F,Shortness of breath,2,Walk-in,17
+V01827,2025-11-27 22:01,82,65+,F,Injury,4,Walk-in,95
+V01828,2025-11-27 23:49,71,65+,F,Headache,3,Walk-in,34
+V01829,2025-11-28 10:00,52,50-64,M,Back pain,4,Ambulance,30
+V01830,2025-11-29 15:22,21,18-34,F,Fever,4,Walk-in,77
+V01831,2025-11-29 16:57,39,35-49,F,Chest pain,1,Walk-in,5
+V01832,2025-11-29 23:00,34,18-34,F,Nausea/vomiting,3,Walk-in,46
+V01833,2025-11-30 00:20,75,65+,M,Abdominal pain,3,Ambulance,51
+V01834,2025-11-30 03:29,69,65+,M,Rash,4,Walk-in,34
+V01835,2025-11-30 08:58,42,35-49,M,Nausea/vomiting,3,Ambulance,45
+V01836,2025-11-30 12:55,92,65+,F,Nausea/vomiting,5,Walk-in,59
+V01837,2025-11-30 16:46,4,0-17,M,Headache,4,Walk-in,60
+V01838,2025-11-30 21:18,59,50-64,F,Fever,3,Walk-in,58
+V01839,2025-11-30 21:59,1,0-17,M,Abdominal pain,4,Walk-in,66
+V01840,2025-11-30 22:12,83,65+,M,Injury,3,Ambulance,42
+V01841,2025-12-01 08:16,46,35-49,M,Back pain,4,Walk-in,43
+V01842,2025-12-02 00:47,90,65+,F,Abdominal pain,3,Walk-in,53
+V01843,2025-12-02 01:32,7,0-17,F,Chest pain,2,Walk-in,16
+V01844,2025-12-02 04:45,19,18-34,F,Back pain,3,Ambulance,30
+V01845,2025-12-02 06:41,46,35-49,F,Laceration,4,Walk-in,46
+V01846,2025-12-02 11:20,6,0-17,M,Injury,3,Walk-in,41
+V01847,2025-12-02 15:59,4,0-17,M,Injury,4,Walk-in,58
+V01848,2025-12-02 18:47,59,50-64,M,Injury,3,Walk-in,80
+V01849,2025-12-02 19:33,69,65+,F,Nausea/vomiting,4,Walk-in,94
+V01850,2025-12-02 21:28,17,0-17,F,Abdominal pain,4,Walk-in,59
+V01851,2025-12-02 21:40,61,50-64,M,Headache,3,Walk-in,52
+V01852,2025-12-03 12:48,18,18-34,F,Rash,4,Walk-in,47
+V01853,2025-12-03 13:38,80,65+,M,Laceration,4,Walk-in,45
+V01854,2025-12-03 14:30,18,18-34,F,Nausea/vomiting,3,Walk-in,26
+V01855,2025-12-03 21:15,54,50-64,F,Headache,4,Walk-in,85
+V01856,2025-12-03 21:51,14,0-17,F,Shortness of breath,3,Walk-in,110
+V01857,2025-12-04 05:10,26,18-34,F,Injury,3,Walk-in,93
+V01858,2025-12-04 12:18,64,50-64,F,Abdominal pain,3,Walk-in,26
+V01859,2025-12-04 13:34,53,50-64,F,Rash,3,Ambulance,50
+V01860,2025-12-04 16:01,83,65+,M,Headache,2,Walk-in,20
+V01861,2025-12-05 02:01,60,50-64,M,Injury,3,Walk-in,33
+V01862,2025-12-05 13:20,28,18-34,F,Headache,4,Walk-in,42
+V01863,2025-12-05 13:45,58,50-64,M,Nausea/vomiting,4,Walk-in,33
+V01864,2025-12-05 19:07,7,0-17,M,Laceration,4,Walk-in,63
+V01865,2025-12-06 02:38,38,35-49,F,Headache,4,Walk-in,27
+V01866,2025-12-06 03:31,28,18-34,M,Chest pain,3,Walk-in,22
+V01867,2025-12-06 06:24,50,50-64,M,Chest pain,3,Walk-in,88
+V01868,2025-12-06 06:37,39,35-49,M,Fever,3,Ambulance,40
+V01869,2025-12-06 09:11,18,18-34,M,Laceration,4,Walk-in,38
+V01870,2025-12-06 12:10,38,35-49,F,Laceration,5,Ambulance,58
+V01871,2025-12-06 16:07,75,65+,F,Injury,4,Walk-in,246
+V01872,2025-12-06 16:41,25,18-34,F,Back pain,3,Walk-in,42
+V01873,2025-12-06 22:29,65,65+,M,Headache,4,Walk-in,21
+V01874,2025-12-06 23:26,60,50-64,M,Injury,4,Walk-in,64
+V01875,2025-12-07 05:59,3,0-17,M,Laceration,3,Walk-in,29
+V01876,2025-12-07 07:29,74,65+,M,Injury,4,Walk-in,72
+V01877,2025-12-07 07:47,30,18-34,F,Injury,3,Walk-in,36
+V01878,2025-12-07 08:17,46,35-49,M,Fever,4,Walk-in,28
+V01879,2025-12-07 13:41,40,35-49,M,Headache,3,Walk-in,40
+V01880,2025-12-08 05:03,12,0-17,M,Shortness of breath,2,Walk-in,7
+V01881,2025-12-08 05:48,46,35-49,F,Laceration,4,Walk-in,32
+V01882,2025-12-08 17:51,49,35-49,F,Chest pain,3,Walk-in,69
+V01883,2025-12-09 01:46,50,50-64,F,Shortness of breath,3,Walk-in,21
+V01884,2025-12-09 09:41,6,0-17,M,Chest pain,3,Walk-in,64
+V01885,2025-12-09 13:12,22,18-34,M,Abdominal pain,3,Walk-in,82
+V01886,2025-12-09 19:53,49,35-49,M,Abdominal pain,4,Walk-in,84
+V01887,2025-12-09 22:31,79,65+,F,Headache,4,Walk-in,33
+V01888,2025-12-10 08:14,64,50-64,F,Abdominal pain,3,Walk-in,26
+V01889,2025-12-10 20:30,14,0-17,M,Chest pain,3,Walk-in,20
+V01890,2025-12-10 22:02,43,35-49,F,Injury,2,Walk-in,24
+V01891,2025-12-10 23:43,30,18-34,F,Nausea/vomiting,3,Walk-in,42
+V01892,2025-12-11 04:12,31,18-34,M,Chest pain,2,Walk-in,20
+V01893,2025-12-11 04:17,39,35-49,F,Abdominal pain,2,Walk-in,14
+V01894,2025-12-11 06:04,51,50-64,M,Fever,3,Walk-in,15
+V01895,2025-12-11 10:35,37,35-49,M,Abdominal pain,3,Walk-in,27
+V01896,2025-12-11 11:09,90,65+,M,Injury,4,Walk-in,42
+V01897,2025-12-11 13:51,14,0-17,F,Chest pain,2,Walk-in,31
+V01898,2025-12-11 14:44,51,50-64,F,Laceration,5,Ambulance,129
+V01899,2025-12-11 14:57,71,65+,M,Headache,3,Walk-in,113
+V01900,2025-12-11 19:47,35,35-49,M,Chest pain,2,Walk-in,13
+V01901,2025-12-12 02:49,62,50-64,F,Headache,3,Walk-in,64
+V01902,2025-12-12 13:33,83,65+,F,Laceration,4,Ambulance,98
+V01903,2025-12-12 16:09,66,65+,F,Abdominal pain,3,Walk-in,38
+V01904,2025-12-12 17:32,44,35-49,M,Headache,4,Ambulance,33
+V01905,2025-12-12 22:49,48,35-49,M,Injury,5,Walk-in,78
+V01906,2025-12-13 01:25,64,50-64,F,Abdominal pain,3,Walk-in,15
+V01907,2025-12-13 05:13,58,50-64,M,Headache,3,Walk-in,29
+V01908,2025-12-13 07:55,25,18-34,M,Abdominal pain,2,Walk-in,16
+V01909,2025-12-13 14:43,18,18-34,F,Shortness of breath,3,Walk-in,33
+V01910,2025-12-13 15:03,2,0-17,F,Shortness of breath,1,Walk-in,5
+V01911,2025-12-14 00:44,65,65+,M,Chest pain,1,Walk-in,4
+V01912,2025-12-14 01:39,17,0-17,F,Chest pain,3,Walk-in,13
+V01913,2025-12-14 13:40,24,18-34,F,Injury,4,Walk-in,53
+V01914,2025-12-14 14:47,21,18-34,M,Laceration,4,Walk-in,111
+V01915,2025-12-14 23:10,44,35-49,M,Injury,4,Walk-in,20
+V01916,2025-12-15 02:01,75,65+,F,Abdominal pain,4,Walk-in,42
+V01917,2025-12-15 02:32,33,18-34,M,Back pain,4,Walk-in,34
+V01918,2025-12-15 04:26,3,0-17,F,Injury,4,Walk-in,81
+V01919,2025-12-15 11:37,38,35-49,M,Headache,4,Walk-in,106
+V01920,2025-12-15 18:23,76,65+,F,Rash,5,Walk-in,169
+V01921,2025-12-15 21:51,70,65+,M,Shortness of breath,3,Walk-in,49
+V01922,2025-12-16 02:13,45,35-49,F,Injury,4,Ambulance,51
+V01923,2025-12-17 01:01,57,50-64,F,Fever,4,Ambulance,14
+V01924,2025-12-17 04:07,60,50-64,M,Abdominal pain,3,Ambulance,57
+V01925,2025-12-17 11:30,88,65+,M,Nausea/vomiting,5,Ambulance,261
+V01926,2025-12-17 12:15,3,0-17,F,Shortness of breath,2,Ambulance,12
+V01927,2025-12-17 22:44,48,35-49,F,Injury,1,Walk-in,5
+V01928,2025-12-18 04:12,19,18-34,F,Chest pain,3,Walk-in,43
+V01929,2025-12-18 11:19,67,65+,F,Injury,3,Walk-in,64
+V01930,2025-12-18 13:54,45,35-49,M,Chest pain,2,Walk-in,54
+V01931,2025-12-18 16:18,81,65+,M,Abdominal pain,2,Ambulance,34
+V01932,2025-12-18 18:05,33,18-34,F,Chest pain,2,Walk-in,32
+V01933,2025-12-19 02:54,51,50-64,M,Laceration,5,Walk-in,22
+V01934,2025-12-19 13:12,91,65+,F,Chest pain,2,Ambulance,25
+V01935,2025-12-20 05:13,54,50-64,M,Fever,3,Walk-in,67
+V01936,2025-12-20 11:13,45,35-49,M,Fever,4,Walk-in,63
+V01937,2025-12-20 11:17,55,50-64,F,Abdominal pain,4,Walk-in,70
+V01938,2025-12-20 15:32,66,65+,F,Chest pain,2,Walk-in,25
+V01939,2025-12-20 17:06,40,35-49,M,Rash,4,Walk-in,57
+V01940,2025-12-20 19:05,10,0-17,M,Chest pain,2,Ambulance,25
+V01941,2025-12-20 20:22,44,35-49,M,Laceration,4,Walk-in,107
+V01942,2025-12-20 21:41,61,50-64,M,Headache,4,Walk-in,24
+V01943,2025-12-21 17:19,81,65+,F,Chest pain,2,Walk-in,38
+V01944,2025-12-21 18:52,61,50-64,F,Nausea/vomiting,4,Walk-in,92
+V01945,2025-12-21 18:52,58,50-64,F,Injury,4,Ambulance,63
+V01946,2025-12-21 21:28,76,65+,F,Back pain,4,Walk-in,48
+V01947,2025-12-22 03:56,39,35-49,M,Injury,3,Walk-in,65
+V01948,2025-12-22 04:09,28,18-34,M,Rash,5,Walk-in,43
+V01949,2025-12-22 14:18,42,35-49,F,Chest pain,3,Walk-in,46
+V01950,2025-12-22 16:39,32,18-34,M,Abdominal pain,3,Walk-in,74
+V01951,2025-12-22 19:18,93,65+,M,Abdominal pain,4,Walk-in,107
+V01952,2025-12-22 21:58,37,35-49,F,Shortness of breath,3,Walk-in,41
+V01953,2025-12-23 07:49,36,35-49,M,Rash,4,Walk-in,35
+V01954,2025-12-23 16:41,27,18-34,F,Fever,3,Ambulance,33
+V01955,2025-12-23 17:49,8,0-17,M,Laceration,4,Walk-in,51
+V01956,2025-12-23 18:37,72,65+,F,Fever,3,Walk-in,122
+V01957,2025-12-23 23:59,29,18-34,M,Chest pain,2,Walk-in,17
+V01958,2025-12-24 02:49,50,50-64,F,Back pain,4,Walk-in,45
+V01959,2025-12-24 17:29,77,65+,M,Fever,4,Walk-in,33
+V01960,2025-12-24 19:04,85,65+,F,Chest pain,4,Walk-in,71
+V01961,2025-12-24 20:26,49,35-49,F,Injury,4,Walk-in,93
+V01962,2025-12-24 20:48,27,18-34,F,Injury,3,Walk-in,59
+V01963,2025-12-24 21:47,5,0-17,F,Shortness of breath,4,Walk-in,64
+V01964,2025-12-24 22:01,56,50-64,F,Nausea/vomiting,3,Walk-in,69
+V01965,2025-12-25 07:08,74,65+,M,Rash,4,Ambulance,28
+V01966,2025-12-25 07:23,38,35-49,F,Shortness of breath,2,Ambulance,23
+V01967,2025-12-25 07:31,3,0-17,M,Fever,3,Ambulance,34
+V01968,2025-12-25 08:17,5,0-17,M,Injury,3,Walk-in,55
+V01969,2025-12-25 12:23,36,35-49,F,Injury,3,Walk-in,55
+V01970,2025-12-25 14:34,60,50-64,F,Fever,2,Walk-in,41
+V01971,2025-12-25 14:41,15,0-17,F,Injury,3,Walk-in,22
+V01972,2025-12-25 15:50,43,35-49,M,Injury,4,Walk-in,74
+V01973,2025-12-25 21:41,1,0-17,M,Laceration,4,Walk-in,15
+V01974,2025-12-26 02:46,24,18-34,F,Injury,3,Walk-in,39
+V01975,2025-12-26 11:16,16,0-17,F,Injury,3,Walk-in,36
+V01976,2025-12-26 20:31,88,65+,F,Chest pain,3,Walk-in,76
+V01977,2025-12-26 21:13,32,18-34,F,Back pain,3,Walk-in,44
+V01978,2025-12-27 01:19,41,35-49,M,Shortness of breath,2,Walk-in,11
+V01979,2025-12-27 06:06,72,65+,F,Nausea/vomiting,4,Walk-in,40
+V01980,2025-12-27 07:51,54,50-64,F,Laceration,5,Walk-in,74
+V01981,2025-12-27 08:44,59,50-64,M,Nausea/vomiting,3,Walk-in,70
+V01982,2025-12-27 13:52,60,50-64,M,Chest pain,3,Ambulance,87
+V01983,2025-12-27 15:25,76,65+,F,Abdominal pain,4,Walk-in,147
+V01984,2025-12-27 15:40,55,50-64,F,Abdominal pain,3,Walk-in,37
+V01985,2025-12-28 02:26,56,50-64,M,Chest pain,3,Ambulance,64
+V01986,2025-12-28 05:35,87,65+,F,Chest pain,3,Walk-in,40
+V01987,2025-12-28 09:23,36,35-49,M,Chest pain,2,Walk-in,11
+V01988,2025-12-29 14:11,51,50-64,F,Headache,3,Walk-in,63
+V01989,2025-12-29 14:35,40,35-49,F,Nausea/vomiting,3,Walk-in,27
+V01990,2025-12-30 04:13,14,0-17,F,Headache,3,Walk-in,55
+V01991,2025-12-30 07:06,29,18-34,F,Injury,4,Ambulance,58
+V01992,2025-12-30 10:37,80,65+,M,Back pain,4,Ambulance,59
+V01993,2025-12-30 11:46,34,18-34,F,Injury,4,Walk-in,46
+V01994,2025-12-30 16:57,23,18-34,M,Chest pain,3,Ambulance,77
+V01995,2025-12-30 20:22,43,35-49,F,Shortness of breath,4,Ambulance,80
+V01996,2025-12-31 00:35,33,18-34,M,Fever,3,Walk-in,40
+V01997,2025-12-31 01:43,33,18-34,F,Injury,2,Ambulance,29
+V01998,2025-12-31 11:29,16,0-17,M,Shortness of breath,2,Walk-in,23
+V01999,2025-12-31 12:49,44,35-49,M,Nausea/vomiting,4,Walk-in,54
+V02000,2025-12-31 15:58,26,18-34,M,Shortness of breath,2,Walk-in,14
