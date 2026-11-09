@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import altair as alt
 
 st.title("ED Visit Explorer")
 st.write("A small app for exploring synthetic emergency department visits.")
@@ -21,4 +22,18 @@ col2.metric("Median wait (minutes)", selected["wait_minutes"].median())
 st.subheader("Visits by chief complaint")
 st.bar_chart(selected["chief_complaint"].value_counts())
 
-st.dataframe(selected)
+st.subheader("Distribution of wait times")
+histogram = (
+    alt.Chart(selected)
+    .mark_bar()
+    .encode(
+        alt.X("wait_minutes:Q", bin=alt.Bin(step=10), title="Wait (minutes)"),
+        alt.Y("count()", title="Number of visits")
+    )
+)
+st.altair_chart(histogram, width="stretch")
+
+with st.expander("Show the data"):
+    st.dataframe(selected)
+
+st.caption("All data are synthetic. No real patient information is used.")
