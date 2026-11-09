@@ -18,4 +18,7 @@ col1, col2 = st.columns(2)
 col1.metric("Number of visits", len(selected))
 col2.metric("Median wait (minutes)", selected["wait_minutes"].median())
 
+st.subheader("Visits by chief complaint")
+st.bar_chart(selected["chief_complaint"].value_counts())
+
 st.dataframe(selected)
